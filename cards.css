@@ -29,8 +29,12 @@
 .head {
 	border-bottom: 1px solid black;
 }
+
+.other-tags {font-style: italic;}
+
+
 .tagline {
-	font-style: italic;
+	
 	font-size: 8pt;
 	display: flex;
 	/* Use flex container */
@@ -39,6 +43,9 @@
 	align-items: center;
 	/* Center vertically */
 }
+
+.align-symbol {display: inline;}
+
 .stats-and-features {
 	display: flex;
 	flex-direction: row;
