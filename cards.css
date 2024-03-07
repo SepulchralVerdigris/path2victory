@@ -1,9 +1,9 @@
 .stat {
 	padding-top: 5px;
-	border-bottom: 2px solid black;
+	border-bottom: 1px solid black;
 }
 .stats {
-	border-right: 2px solid black;
+	border-right: 1px solid black;
 	width: 40px;
 	padding-right: 5px;
 }
@@ -27,7 +27,7 @@
 	font-size: 9pt;
 }
 .head {
-	border-bottom: 2px solid black;
+	border-bottom: 1px solid black;
 }
 .tagline {
 	font-style: italic;
@@ -46,7 +46,12 @@
 .feature-name {
 	font-weight: bold;
 	padding-top: 5px;
+	display: inline;
 }
+
+.feature-top {display: inline;
+font-style: italic;}
+
 .cards {
 	display: flex;
 
@@ -56,6 +61,10 @@
 	/* Horizontally distribute items with equal space around them */
 	align-items: flex-start;
 	/* Align items to the start of the container (top) */;
+	max-width: 100%; /* Adjust as needed */
+    overflow: hidden;
+    overflow: hidden;
+    text-overflow: ellipsis; /* Display an ellipsis (...) when text overflows */
 }
 
 .other-features {
@@ -67,6 +76,7 @@
 .features {
 	padding-left: 5px;
 	padding-right: 5px;
+	padding-top: 2px;
 	font-size: 8pt;
 	flex-direction: column;
 	display:flex;
@@ -77,6 +87,9 @@
     color: darkgreen;
 	font-size: 12pt;
 }
+
+.feature {padding-bottom: 5px;}
+
 .points {
 	display: inline;
 	float: right;
@@ -92,6 +105,11 @@
 	border-radius: 5px;
     margin: 10px;
 }
+
+.feature-uses {display: inline;}
+
 .card-interior {
-	padding: 10px 16px;
+	padding-top: 5px; 
+	padding-left: 5px;
+	padding-right: 5px;
 }
