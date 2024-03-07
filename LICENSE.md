@@ -1,0 +1,1 @@
+Parts of this project are Open Game Content under the Open Game License. The remainder is licensed under the ORC License.
