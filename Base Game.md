@@ -54,7 +54,7 @@ If you use our Licensed Material in your own published works, please credit us a
 
 #                                  How to read a creature card
 
-Creatures are the living (and unliving) participants of battles*.* Monsters, heroes, undead, bystanders and livestock are all creatures. Each creature is represented by a figure. 
+<img src="img/basilisk.png" style="float:right; width: 2.5in; margin-left:15px;" />Creatures are the living (and unliving) participants of battles*.* Monsters, heroes, undead, bystanders and livestock are all creatures. Each creature is represented by a figure. 
 
 **Name:** The name of the creature, in this case “Basilisk”. 
 
