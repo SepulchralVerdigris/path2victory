@@ -1,10 +1,10 @@
-Path 2 Victory
+# Path 2 Victory
 
 The skirmish game inside PF2e
 
 *Path 2 Victory* is a hack of PF2e that turns the expansive roleplaying game into an accessible miniatures skirmish game. 
 
-2024, version 1.3
+2024, version 1.31
 
 ## Introduction
 
@@ -46,11 +46,11 @@ This product is licensed under the ORC License to be held in the Library of Cong
 
 This product is based on the following Licensed Material:
 
-**Pathfinder Player Core** © 2023 Paizo Inc., Designed by Logan Bonner, Jason Bulmahn, Stephen Radney-MacFarland, and Mark Seifter. Authors: Alexander Augunas, Kate Baker, Logan Bonner, Jason Bulmahn, Carlos Cabrera, Calder CaDavid, James Case, Eleanor Ferron, Steven Hammond, Joan Hong, Vanessa Hoskins, James Jacobs, Jenny Jarzabski, Erik Keith, Dustin Knight, Lyz Liddell, Luis Loza, Patchen Mortimer, Dennis Muldoon, Stephen Radney-MacFarland, Mikhail Rekun, David N. Ross, Michael Sayre, Mark Seifter, Kendra Leig Speedling, Mark Thompson, Clark Valentine, Andrew White, Landon Winkler, and Linda Zayas-Palmer
+> **Pathfinder Player Core** © 2023 Paizo Inc., Designed by Logan Bonner, Jason Bulmahn, Stephen Radney-MacFarland, and Mark Seifter. Authors: Alexander Augunas, Kate Baker, Logan Bonner, Jason Bulmahn, Carlos Cabrera, Calder CaDavid, James Case, Eleanor Ferron, Steven Hammond, Joan Hong, Vanessa Hoskins, James Jacobs, Jenny Jarzabski, Erik Keith, Dustin Knight, Lyz Liddell, Luis Loza, Patchen Mortimer, Dennis Muldoon, Stephen Radney-MacFarland, Mikhail Rekun, David N. Ross, Michael Sayre, Mark Seifter, Kendra Leig Speedling, Mark Thompson, Clark Valentine, Andrew White, Landon Winkler, and Linda Zayas-Palmer
 
 If you use our Licensed Material in your own published works, please credit us as follows:
 
-**Path 2 Victory** © 2024
+> **Path 2 Victory** © 2024
 
 #                                  How to read a creature card
 
@@ -62,12 +62,11 @@ Creatures are the living (and unliving) participants of battles*.* Monsters, her
 
 **Alignment:** The nine alignments are the factions of *Path 2 Victory,* and each has a corresponding symbol: 
 
-| ☼ Lawful good    | ✿ Neutral good | ✯ Chaotic good    |
-| ---------------- | -------------- | ----------------- |
-| 👁️ Lawful neutral | ⚖ True neutral | 🌀 Chaotic neutral |
-| ✊Lawful evil     | 👿 Neutral evil | ⛈ Chaotic evil    |
-
- 
+| | Lawful | Neutral | Chaotic |
+| --- | ---------------- | -------------- | ----------------- |
+| **Good** | ☼ Lawful good    | ✿ Neutral good | ✯ Chaotic good    |
+| **Neutral** | 👁️ Lawful neutral | ⚖ True neutral | 🌀 Chaotic neutral |
+| **Evil** | ✊Lawful evil     | 👿 Neutral evil | ⛈ Chaotic evil    |
 
 **Size:** How large the monster is. Tiny, Small and Medium creatures occupy a single square (1” by 1”). Large creatures occupy four squares (total 2” by 2”), Huge creatures nine squares (total 3” by 3”) and Gargantuan creatures sixteen squares (total 4” by 4”). Miniatures usually sit on a circular or square base the same width as the space that the creature occupies. 
 
@@ -173,26 +172,7 @@ In all forms of play except “Narrative Play”, no single creature can cost mo
 
 ### Alignments
 
-There are nine factions in *Path 2 Victory:* the nine alignments. Each player chooses an alignment for their warband, but can also recruit those of “adjacent” alignments and True Neutral creatures. For example, a Lawful Evil warband can also include Lawful Neutral, Neutral Evil and True Neutral creatures.
-
-| Lawful Good    | Neutral Good | Chaotic Good    |
-| -------------- | ------------ | --------------- |
-| Lawful Neutral | True Neutral | Chaotic Neutral |
-| Lawful Evil    | Neutral Evil | Chaotic Evil    |
-
-| Lawful Good    | Neutral Good | Chaotic Good    |
-| -------------- | ------------ | --------------- |
-| Lawful Neutral | True Neutral | Chaotic Neutral |
-| Lawful Evil    | Neutral Evil | Chaotic Evil    |
-
- 
-
-| Lawful Good    | Neutral Good | Chaotic Good    |
-| -------------- | ------------ | --------------- |
-| Lawful Neutral | True Neutral | Chaotic Neutral |
-| Lawful Evil    | Neutral Evil | Chaotic Evil    |
-
- 
+There are nine factions in *Path 2 Victory:* the nine alignments. Each player chooses an alignment for their warband, but can also recruit those of “adjacent” alignments and True Neutral creatures. For example, a Lawful Evil warband can also include Lawful Neutral, Neutral Evil and True Neutral creatures. A Neutral Good warband can also include Lawful Good, Chaotic Good and True Neutral creatures. A True Neutral warband can also include Neutral Good, Lawful Neutral, Chaotic Neutral and Neutral Evil creatures. 
 
 ### Points by level
 
@@ -210,8 +190,6 @@ Table 1: Points cost by level
 | **4**     | 26       | 5                | **12**    | 135      | 23               |
 | **5**     | 32       | 6                | **13**    | 160      | 27               |
 | **6**     | 40       | 7                | **14**    | 192      | 32               |
-
- 
 
 #### Upgrades
 
@@ -272,8 +250,6 @@ Players can choose objectives with special effects associated with them.
 Roll 2d6 and take the higher result. Players alternate placing objectives on the map until they have placed that many objectives. Players choose objectives from the standard objectives below. No type of objective can be placed more than once. 
 
 Each objective is associated with several skills. 
-
-
 
 | **Objective**      | **Skill 1** | **Skill 2**  | **Skill 3**  | **Skill 4** |
 | ------------------ | ----------- | ------------ | ------------ | ----------- |
@@ -630,6 +606,8 @@ If there is elevated terrain between the attacker and the target, the attacker�
 
 For example, a Medium elf (1 square tall) is facing two enemies standing on a low hill (1 square tall): a Small goblin (0 squares tall, for a total height of 1) and a Large ogre (2 square tall, for a total height of 3). Between the elf and her targets is a cottage (3 squares tall). The cottage is higher than the goblin but not higher than the ogre, so the elf can only target the ogre (and the ogre has cover). 
 
+<img src="img/height.png" style="width: 500px;" />
+
 Attackers ignore cover if they or the target are higher than the cover is tall.
 
 ### Line of effect
@@ -658,9 +636,7 @@ If any of a creature’s space is within the area of effect, the creature is aff
 
 **Lines:** A line power is measured in a straight line from a single corner of the origin space. 
 
-Figure 1: Areas of effect
-
- [xxx]
+<img src="img/aoe.png" style="width: 700px;" />
 
 # Hit points and damage
 
@@ -686,13 +662,7 @@ Keep track of where each creature is eliminated. A creature on or adjacent to th
 
 ### Damage types
 
-There are 12 types of damage. 
-
-| Bludgeoning | Piercing | Fire | Electricity | Mental | Void | Slashing | Acid | Cold | Sonic | Poison |
-| ----------- | -------- | ---- | ----------- | ------ | ---- | -------- | ---- | ---- | ----- | ------ |
-|             |          |      |             |        |      |          |      |      |       |        |
-
- 
+There are 12 types of damage: Bludgeoning, piercing, slashing, acid, cold, fire, electricity, sonic, mental, poison, void and vitality. 
 
 Vitality damage only damages undead creatures and void damage does not damage undead or construct creatures.
 
@@ -765,11 +735,11 @@ There are typically two types of caster: prepared casters and spontaneous caster
 
 For example, the Kobold Sorcerer 1 is a spontaneous caster. They can cast three spells, choosing from *bane, fear* and *charm.* They could choose *bane* all three times. 
 
-🄳🄳🄳 Bane, fear, harm; ∞ Acid splash, shield; 🄴: Glutton's jaws
+> 🄳🄳🄳 Bane, fear, harm; ∞ Acid splash, shield; 🄴: Glutton's jaws
 
 The Kobold Druid 1 is a prepared caster. It can cast *heal* once and *magic weapon* once. 
 
-🄳 Heal, 🄳 Magic weapon (animal, beast, fungus, plant or dragon only); ∞ Ray of frost, tanglefoot; 🄴 Heal (animal or beast only)
+> 🄳 Heal, 🄳 Magic weapon (animal, beast, fungus, plant or dragon only); ∞ Ray of frost, tanglefoot; 🄴 Heal (animal or beast only)
 
 # Other rules
 
@@ -861,21 +831,7 @@ Combat statuses are circumstantial, sometimes beneficial, and do not typically g
 
 The target must be in reach of both flankers, and a line drawn from the center of one flanker’s space to the center of the other must pass through the target’s space. For example, if attacker 1 is in a given space, attacker 2 can be in a variety of other spaces to flank the target (T): 
 
-
-
-|      | 1    |      |
-| ---- | ---- | ---- |
-|      | T    |      |
-| 2    | 2    | 2    |
-
-
-
-| 1    |      |      |
-| ---- | ---- | ---- |
-|      | T    | 2    |
-|      | 2    | 2    |
-
- 
+<img src="img/flanking.png" />
 
 **Helpless**: A creature that is dying is helpless. They cannot take actions (including reactions) or spend action points. When their turn begins, it ends immediately. The creature does not count as a creature for the purposes of affecting opponents (they can move through the helpless creature’s space, are not flanked by the helpless creature, etc). 
 
@@ -1003,8 +959,8 @@ Aquatic creatures that cannot move on land at all (or barely, for example with a
 * When an action costs three action points, consider if an element can be removed from it to make an action that is balanced at two action points. Alternatively, it can be okay to just make an action that costs three action points cost two action points. 
 
 * Because *Path 2 Victory* has two action points per turn instead of three, ignore “maintenance” actions like Raise Shield or the Fly action to remain in the air. *Path 2 Victory* is just not fine-grained enough that it is necessary to have these kinds of actions. 
+  * When an action requires a maintenance action, like a ranged weapon that needs the Reload action to use again, an alternative option is to make the original action usable only once per turn. 
 
-o When an action requires a maintenance action, like a ranged weapon that needs the Reload action to use again, an alternative option is to make the original action usable only once per turn. 
 
 ### Damage
 
@@ -1072,4 +1028,4 @@ Other conditions are not described in *Path 2 Victory* but can be used sparingly
 
 You can also proxy additional conditions or effects in a two-step process: saying that a certain event gives a creature a condition, and then giving it an additional rider when affected by that condition. 
 
-For example, in PF2e the Craig Linnorm loses regeneration when it takes cold damage. In *Path 2 Victory,* the Craig Linnorm becomes sickened when it takes cold damage, and loses regeneration while sickened. The flavorful weakness is preserved, but no further tracking is needed beyond the existing *Path 2 Victory* condition system. 
+For example, in PF2e the craig linnorm loses regeneration when it takes cold damage. In *Path 2 Victory,* the Craig Linnorm becomes sickened when it takes cold damage, and loses regeneration while sickened. The flavorful weakness is preserved, but no further tracking is needed beyond the existing *Path 2 Victory* condition system. 
