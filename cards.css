@@ -44,7 +44,8 @@
 	/* Center vertically */
 }
 
-.align-symbol {display: inline;}
+.align-symbol {display: inline;
+font-size: 11pt;}
 
 .stats-and-features {
 	display: flex;
@@ -101,15 +102,18 @@ font-style: italic;}
 	display: inline;
 	float: right;
 	margin-left: auto;
-	position: relative;
+	margin-right: 5px;
+	    position: absolute;
+    right: 0;
 	font-size: 9pt
 }
 .card {
 	justify-content: space-between;
 	width: 2.5in;
-	height: 3.5in;
+	min-height: 3.5in;
 	border: 2px solid black;
 	border-radius: 5px;
+	position: relative;
     margin: 10px;
 }
 
