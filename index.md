@@ -4,6 +4,10 @@
 
 [Appendices](Appendices.md)
 
+[Cheat Sheet PDF](Cheat Sheet.pdf)
+
+[Condition and Status Trackers PDF](Condition and Status Trackers.pdf)
+
 ## Open Game Content
 
 [Legacy Cards](cards.html)
