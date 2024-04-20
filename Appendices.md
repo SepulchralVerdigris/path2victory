@@ -1,3 +1,59 @@
+# Appendix: Items
+
+Players can give creatures items of their level or lower, for the cost of an upgrade per item. 
+
+## Permanent
+
+### Level 1
+
+**Fiery Weapon:** Choose a weapon. It does fire damage as well as whatever other damage it does.
+
+**Disrupting Weapon:** Choose a weapon. It does force damage as well as whatever other damage it does.
+
+**Howdah:** Attach to a Huge or larger creature. The howdah is a 2 square by 2 square platform (Huge creature) or 3 by 3 square platform (Gargantuan creature). One passenger becomes the creature’s commander. The howdah grants cover.
+
+## Consumables
+
+### Level 1
+
+☐ **Feather Token (Ladder) ●** Summon a 4-square long ladder in an adjacent, unoccupied square. 
+
+☐ **Holy Water ●** Ranged 4/8 strike; 5 good damage against fiends and undead
+
+☐ **Unholy Water ●** Ranged 4/8 strike; 5 evil damage against celestials
+
+☐ **Ablative Armor Plating:** Increase your HP by 5 for this battle. Use at the start of the encounter. 
+
+☐ **Explosive Mine** **●●** Place a mine in an adjacent, unoccupied square. If a creature moves into that square, the mine explodes. They take 7 fire damage (Reflex save vs Power 16: half damage). 
+
+☐ **Healing Potion (minor) ●** You or creature in reach heals 5 HP. 
+
+☐ **Alchemist’s Fire (minor) ●** Ranged 2/4 strike; 8 fire damage. 
+
+☐ **[Spell] Potion I ●** You or an ally in reach are affected by the spell, as if cast by a rank 1 caster. (Each of these potions is associated with a cantrip or rank 1 spell with a range of Self or Melee 1.)
+
+☐ **[Spell] Scroll I** Each of these scrolls is associated with a cantrip or rank 1 spell. Only a creature capable of casting spells can use a scroll. They can cast the spell on the scroll, using their own caster rank, after which the scroll is consumed. They must spend the spell’s action point cost to cast it. 
+
+☐ **Basic Poison ○** Your next weapon attack makes one target sickened, if it hits. 
+
+☐ **Oil of Unlife (minor) ●** You or creature in reach heals 5 damage (undead creatures only). 
+
+☐ **Slippery Ribbon:** Swap places with an adjacent creature (free action).
+
+☐ **Thunderbird Tuft** **↻** A creature hits you with a melee strike: the attacker takes 5 lightning damage
+
+### Level 2
+
+☐ **Oil of Potency (Fight) ●** Self or adjacent ally: +1 Fight and +5 damage until the end of the encounter. 
+
+☐ **Oil of Potency (Defence) ●** Self or adjacent ally: +1 Armor, Fortitude, Reflex and Will until the end of the encounter.
+
+### Level 3
+
+☐ **[Spell] Potion II ●** You or an ally in reach are affected by the spell. (Each of these potions is associated with a rank 2 spell with a range of Self or Melee 1.)
+
+☐ **[Spell] Scroll II** Each of these scrolls is associated with a rank 2 spell. Only a creature capable of casting spells can use a scroll. They can cast the spell on the scroll, after which the scroll is consumed. They must spend the spell’s action point cost to cast it. 
+
 # Appendix: Special objectives
 
 Some objectives have other effects as well. Examples below. Where a creature is involved, any skill checks use the creature’s Power unless another number is specified. 
@@ -82,7 +138,7 @@ All features (including spells) that are usable once per encounter (🄴) are us
 
 Roll 1d6 for each creature that was eliminated in the scenario. 
 
-Table 1: Eliminated creatures
+##### Table 1: Eliminated creatures
 
 | **D6** | **Outcome**   | **Effect**                                         |
 | ------ | ------------- | -------------------------------------------------- |
@@ -92,7 +148,7 @@ Table 1: Eliminated creatures
 
  
 
-Table 2: Injuries
+##### Table 2: Injuries
 
 | **D6** | **Injury**  | **Effect**                                      |
 | ------ | ----------- | ----------------------------------------------- |
@@ -111,7 +167,7 @@ A creature that already has a wound that would become Wounded again instead has 
 
 Each time a creature participates in a scenario, they get an upgrade. Roll 3d6 for each creature to see what upgrade they receive. 
 
-Table 3: Upgrades
+##### Table 3: Upgrades
 
 | **Result** | **Benefit**  | **Result** | **Benefit** |
 | ---------- | ------------ | ---------- | ----------- |
@@ -132,7 +188,7 @@ Immediately upon receiving every third upgrade, a creature goes up a level (and 
 
 *Damage:* Look up their previous level and damage, and compare it with the damage in the same column for the new level. 
 
-Table 4: Damage progression
+##### Table 4: Damage progression
 
 | **Level** | **Extreme** | **High** | **Mod** | **Low** | **Area  Unlimited** | **Area  Limited** |
 | --------- | ----------- | -------- | ------- | ------- | ------------------- | ----------------- |
@@ -222,7 +278,7 @@ Use this table to determine how a class is expected to progress in terms of dama
 
 When converting creatures over from PF2e, it is perfectly okay for their numbers to differ from those given here. They have been built using different, valid rules. 
 
-Table 5: Expected class statistics at first level
+##### Table 5: Expected class statistics at first level
 
 | **Class**               | **Attack** | **Melee Damage** | **Ranged Damage** | **Armor** | **Power** | **Fort** | **Reflex** | **Will** | **HP**                                     |
 | ----------------------- | ---------- | ---------------- | ----------------- | --------- | --------- | -------- | ---------- | -------- | ------------------------------------------ |
@@ -252,7 +308,7 @@ Table 5: Expected class statistics at first level
 | **Shortbow**         | **●**      | Martial         | 12/24     |
 | **Alchemical  Bomb** | **●**      | Martial         | 20/40     |
 
- Appendix: Gridless and 3D play
+# Appendix: Gridless and 3D play
 
 For the most part, you can play *Path 2 Victory* without a grid by substituting “inches” any time the game refers to “squares”. Measure diagonal movement normally instead of imposing an extra cost for it. 
 
@@ -320,19 +376,19 @@ An arrow means after taking the original action, the monster takes the subsequen
 
 Find out the monster’s “preferred” target, following this order until there is no ambiguity about who the monster targets:
 
-\1.    Enemies within range of their attack, or able to be within range with the movement the monster has available.
+1. Enemies within range of their attack, or able to be within range with the movement the monster has available.
 
-\2.    (When using an area attack) Maximising the number of enemies targeted. 
+2. (When using an area attack) Maximising the number of enemies targeted. 
 
-\3.    Enemies listed as their “preferred” enemy.
+3. Enemies listed as their “preferred” enemy.
 
-\4.    Enemies that are nearest.
+4. Enemies that are nearest.
 
-\5.    Enemies that are yet to act.
+5. Enemies that are yet to act.
 
-\6.    Enemies with the lowest current HP.
+6. Enemies with the lowest current HP.
 
-\7.    Enemies with the lowest Armor.
+7. Enemies with the lowest Armor.
 
 Monsters who have no enemies in range move towards whichever enemy they can get in range of with their movement, again preferring enemies based on the order given above. 
 

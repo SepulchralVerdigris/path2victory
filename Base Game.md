@@ -4,7 +4,7 @@ The skirmish game inside PF2e
 
 *Path 2 Victory* is a hack of PF2e that turns the expansive roleplaying game into an accessible miniatures skirmish game. 
 
-2024, version 1.31
+2024, version 1.40
 
 ## Introduction
 
@@ -178,7 +178,7 @@ There are nine factions in *Path 2 Victory:* the nine alignments. Each player ch
 
 The cost of a creature is calculated based on its level, plus a certain amount for every upgrade it has (if any). 
 
-Table 1: Points cost by level
+##### Table 1: Points cost by level
 
 | **Level** | **Cost** | **Upgrade cost** | **Level** | **Cost** | **Upgrade cost** |
 | --------- | -------- | ---------------- | --------- | -------- | ---------------- |
@@ -323,9 +323,7 @@ Unless otherwise specified, a creature can take a particular free action only on
 
 ### Group activation
 
-A player can activate a group of creatures in their warband at once. The creatures must all be adjacent to at least one other creature in the group. They must all spend their action points on the same actions and in the same order, though the details can be different (e.g. if they all Stride, they can move in different directions; if they Strike, they can choose different targets or use different weapons). They must remain in a group (adjacent to at least one other creature in the group) at the end of each action. 
-
-A player does not have to activate every creature that could count as being part of the group. For example, if four Goblin Warriors are adjacent to one another, the player could activate three of them as a group.
+A player can activate a group of creatures in their warband at once. The creatures must have spent the whole game adjacent to at least one other creature in the group. They must all spend their action points on the same actions and in the same order, though the details can be different (e.g. if they all Stride, they can move in different directions; if they Strike, they can choose different targets or use different weapons). However, if the group breaks up, all the creatures in it must then be activated separately; the group cannot reform. 
 
 ### End of turn
 
@@ -554,21 +552,23 @@ Ranged weapons often have two ranges listed, for example “Ranged 12/24”. The
 
 ### Line of sight 
 
-Melee and Ranged attacks require the attacker to have line of sight to the target – in other words, to be able to see the target. Attacks that have an area of effect only require line of sight to the first square of the area of effect (to give an example, a creature needs to be able to see the square they are throwing a grenade into, but it explodes into the squares beyond even if they are shrouded in darkness). 
+Melee and Ranged attacks require the attacker to have line of sight to the target – in other words, to be able to see the target. 
 
-If you can draw a line between any point on the space your attacking figure occupies and any point on the space the target occupies, without it passing through solid or opaque terrain, the attacker has line of sight. 
+If the attacking player can draw a line between any point on the space their attacking figure occupies and any point on the space the target occupies, without it passing through solid or opaque terrain, the attacker has line of sight. 
+
+Area effects ignore opaque terrain: they have line of sight if they do not pass through solid terrain.
 
 ### Cover 
 
 Cover refers to things that physically interfere with the attack. Foliage, a low wall and a fellow combatant are all forms of cover. Cover applies against strikes (attacks that target Armor) and against other attacks that target Reflex.
 
-When a creature is the target of an applicable attack, the defending player can draw a line between any point on the attacking figure’s space and any point on the target’s space. 
+The attacking player chooses the point in the attacking creature's space from which the attack originates. The defending player then chooses any point in the target's space. Imagine a line between those two points. Use the same point on the attacker's space for each target if there are multiple targets. 
 
 Make a cover check for:
 
 * Each piece of obstructing, solid or opaque terrain that the line passes through.
 
-* Each figure of the same height or shorter than both attacker and defender that the line passes through.
+* Each figure of the same size or smaller than both attacker and defender that the line passes through.
 
 In order from closest to the attacker to farthest from the attacker. If terrain is in the same square as a figure, roll for the terrain first. 
 
@@ -586,7 +586,7 @@ Concealment refers to things that obscure the attacker’s view of the target, w
 
 Concealment works like cover, except it only applies to strikes (attacks that target Armor), not attacks that target Reflex. 
 
-Make a concealment check for: 
+Use the same line as for cover. Make a concealment check for: 
 
 * Each piece of concealing terrain that the line passes through.
 
@@ -602,19 +602,7 @@ If no 1s are rolled, the original target remains the target.
 
 ### Height
 
-If there is elevated terrain between the attacker and the target, the attacker’s line of sight is blocked if the elevated terrain between them is at least one square higher than either attacker or target. Small and smaller creatures count as less than one square tall, Medium creatures as exactly one square tall, Large creatures as two squares tall and Huge creatures as three squares tall.
-
-For example, a Medium elf (1 square tall) is facing two enemies standing on a low hill (1 square tall): a Small goblin (0 squares tall, for a total height of 1) and a Large ogre (2 square tall, for a total height of 3). Between the elf and her targets is a cottage (3 squares tall). The cottage is higher than the goblin but not higher than the ogre, so the elf can only target the ogre (and the ogre has cover). 
-
-<img src="img/height.png" style="width: 500px;" />
-
-Attackers ignore cover if they or the target are higher than the cover is tall.
-
-### Line of effect
-
-Attacks need to be able to reach the target. 
-
-Draw a line between the middle of the base of the attacking creature (or the point of origin of an area of effect) and the middle of the base of the target creature. If the line passes through solid terrain, the attack does not have line of effect. 
+Creatures are as high as they are wide (for example, a Large creature occupies 8 1-inch cubes: it is 2” wide by 2” long by 2” tall). Where elevation is an issue for determining line of sight, cover or concealment, draw the lines from points in these cubes rather than from ground level. This can mean figures of smaller sizes now grant cover or figures of larger sizes no longer grant cover depending on how the elevation changes their heights. 
 
 ### Adjacency
 
@@ -769,7 +757,17 @@ A commander is a creature that leads other creatures, called minions. The minion
 
 A minion receives 1 AP per turn. The commander can give up 1 AP to give one of its minions +1 AP for that turn. A commander with more than one minion can give up more than 1 AP, but must give each AP to a different minion. 
 
+### Mounts
+
+Some creatures can be mounted by other creatures. 
+
 When one creature mounts another, the mount becomes a minion and the rider its commander – the mount acts on its rider’s turn, and receives 1 AP per turn by default. If the rider dismounts, the mount goes back to normal.
+
+There may be room for other creatures on a mount along with its commander. These passengers get AP as normal. 
+
+Commanders and passengers can make their attacks from any point on the mounted creature. Passengers must occupy a particular space, but can move about/change spaces any time with their own actions or whenever the mount Strides. In practice, this may limit passengers to reach or ranged attacks (for example if they are confined to a howdah on the back of a Huge beast like an elephant). 
+
+If a mount falls prone, its commander and any passengers dismount and are placed in unoccupied spaces around the mount. Make a Reflex save for each commander and passenger (against the mount’s Power): on a failure, they fall prone. If the mount is Huge or larger, the commander and passengers take falling damage as well if they failed their save.
 
 ## Hero points
 
@@ -789,7 +787,7 @@ A creature can spend a hero point just before making a recovery check. They pass
 
 **Swallow Whole ●** A creature of the listed size or smaller that is (a) grabbed and (b) within reach is swallowed (Reflex negates). When first swallowed and at the start of each of its turns, the swallowed creature takes the listed damage.
 
-**Trample ●●** The creature Strides up to its Speed and may move through the spaces of creatures of smaller size. Each creature it moves through takes the listed damage (Reflex half). 
+**Trample ●●** The creature Strides up to its Speed and may move through the spaces of creatures of smaller size. Each time it attempts to move through a creature, that creature makes a Reflex save. On a success, the trampling creature’s movement ends. On a failure, the creature is knocked prone and takes the listed damage. If the trampling creature’s space overlaps with that of other creatures at the end of its movement, move the other creatures to the nearest unoccupied spaces. 
 
 **Truesight/See Invisibility:** A creature with truesight or see invisibility ignore the invisible and concealed statuses of creatures. 
 
@@ -823,7 +821,7 @@ A creature can spend a hero point just before making a recovery check. They pass
 
 Some creature cards describe other conditions. These also end at the end of the target’s turn unless specified. 
 
-## Appendix: Combat statuses
+## Combat statuses
 
 Combat statuses are circumstantial, sometimes beneficial, and do not typically go away on their own. 
 
@@ -849,61 +847,236 @@ A swallowed creature can attack its swallower, who is off-guard against the atta
 
 When a creature escapes, place it in an unoccupied space adjacent to the swallower.
 
-# Appendix: Items
+# Game Mode: Solo adventuring
 
-Players can give creatures items of their level or lower, for the cost of an upgrade per item. 
+In this variant, dice rolls determine how enemy creatures act, allowing a player to run an adventure or campaign by themselves.
 
-## Permanent
+The player’s creatures are referred to as “adventurers” and the AI’s creatures as “monsters”. Adventures from PF2e can be easily adapted to solo adventures in *Path 2 Victory*; an example is given at the end of this section.
 
-### Level 1
+## Early and late turns
 
-**Fiery Weapon:** Choose a weapon. It does fire damage as well as whatever other damage it does.
+At the start of each round, the player decides whether each adventurer will act early or late. 
 
-**Disrupting Weapon:** Choose a weapon. It does force damage as well as whatever other damage it does.
+Each adventurer that acts early gets 2 AP on its turn. If late, it gets 3 AP on its turn. 
 
-**Howdah:** Attach to a Huge or larger creature. The howdah is a 2 square by 2 square platform (Huge creature) or 3 by 3 square platform (Gargantuan creature). One passenger becomes the creature’s commander. The howdah grants cover.
+Monsters can act “super-early”, typically only getting 1 AP or taking a special defensive action. 
 
-## Consumables
+Early adventurers act before early monsters, but after super-early monsters. Late adventurers act before late monsters. 
 
-### Level 1
+Within each phase, the player decides which creature acts first (for example, the player chooses which of their early adventurers takes their turn first; they also choose which early monster takes its turn first.)
 
-☐ **Feather Token (Ladder) ●** Summon a 4-square long ladder in an adjacent, unoccupied square. 
+**Order:** Super-early monsters (Ⅰ), early adventurers, early monsters (Ⅱ), late adventurers, late monsters (Ⅲ).
 
-☐ **Holy Water ●** Ranged 4/8 strike; 5 good damage against fiends and undead
+## Gambits
 
-☐ **Unholy Water ●** Ranged 4/8 strike; 5 evil damage against celestials
+Monsters have fixed actions on their turn, called “gambits”. To determine which gambit a monster uses, roll 1d6 for each type of monster (“Goblin Warrior”, “Flash Beetle”, etc.) at the start of each round (after the player has chosen whether each adventurer is acting early or late). 
 
-☐ **Ablative Armor Plating:** Increase your HP by 5 for this battle. Use at the start of the encounter. 
+The gambit will say which dice results lead to the monster pursuing that gambit, whether the monster is acting super-early (Ⅰ), early (Ⅱ) or late (Ⅲ), and which actions it is pursuing. 
 
-☐ **Explosive Mine** **●●** Place a mine in an adjacent, unoccupied square. If a creature moves into that square, the mine explodes. They take 7 fire damage (Reflex save vs Power 16: half damage). 
+Cardboard AI creatures do not have limited uses of their actions. The gambit system in effect reflects limited uses by having some actions be rarer than others. Similarly, cardboard AI creatures ignore the action point rules: they take whichever actions their roll dictates.
 
-☐ **Healing Potion (minor) ●** You or creature in reach heals 5 HP. 
+### Interpreting the entries
 
-☐ **Alchemist’s Fire (minor) ●** Ranged 2/4 strike; 8 fire damage. 
+A slash between actions means the monster chooses one of those actions: preferring attacks over movement, and preferring melee attacks if it can make them over ranged attacks. 
 
-☐ **[Spell] Potion I ●** You or an ally in reach are affected by the spell, as if cast by a rank 1 caster. (Each of these potions is associated with a cantrip or rank 1 spell with a range of Self or Melee 1.)
+An arrow means after taking the original action, the monster takes the subsequent action. 
 
-☐ **[Spell] Scroll I** Each of these scrolls is associated with a cantrip or rank 1 spell. Only a creature capable of casting spells can use a scroll. They can cast the spell on the scroll, using their own caster rank, after which the scroll is consumed. They must spend the spell’s action point cost to cast it. 
+### Targeting
 
-☐ **Basic Poison ○** Your next weapon attack makes one target sickened, if it hits. 
+Find out the monster’s “preferred” target, following this order until there is no ambiguity about who the monster targets:
 
-☐ **Oil of Unlife (minor) ●** You or creature in reach heals 5 damage (undead creatures only). 
+1. Enemies within range of their attack, or able to be within range with the movement the monster has available.
 
-☐ **Slippery Ribbon:** Swap places with an adjacent creature (free action).
+2. (When using an area attack) Maximising the number of enemies targeted. 
 
-☐ **Thunderbird Tuft** **↻** A creature hits you with a melee strike: the attacker takes 5 lightning damage
+3. Enemies listed as their “preferred” enemy.
 
-### Level 2
+4. Enemies that are nearest.
 
-☐ **Oil of Potency (Fight) ●** Self or adjacent ally: +1 Fight and +5 damage until the end of the encounter. 
+5. Enemies that are yet to act.
 
-☐ **Oil of Potency (Defence) ●** Self or adjacent ally: +1 Armor, Fortitude, Reflex and Will until the end of the encounter.
+6. Enemies with the lowest current HP.
 
-### Level 3
+7. Enemies with the lowest Armor.
 
-☐ **[Spell] Potion II ●** You or an ally in reach are affected by the spell. (Each of these potions is associated with a rank 2 spell with a range of Self or Melee 1.)
+Monsters who have no enemies in range move towards whichever enemy they can get in range of with their movement, again preferring enemies based on the order given above. 
 
-☐ **[Spell] Scroll II** Each of these scrolls is associated with a rank 2 spell. Only a creature capable of casting spells can use a scroll. They can cast the spell on the scroll, after which the scroll is consumed. They must spend the spell’s action point cost to cast it. 
+Monsters do not target helpless creatures. 
+
+### Interpreting movement actions
+
+**Shift:** The monster takes the Step action. If the monster has a melee action coming up, it Steps to get an enemy within reach. Otherwise, it Steps away from enemies. 
+
+**Charge:** If the monster is already within melee reach of an enemy, it does not move. Otherwise, the monster takes the Stride action towards its preferred target. 
+
+**Reposition:** The monster takes the Stride action towards its preferred target, even if it is already in melee reach of an enemy.
+
+**Retreat:** The monster takes the Stride action moving as far away from all enemies as possible. 
+
+**Stride:** The monster moves so its subsequent actions are most effective (into range, into reach, out of melee reach of enemies if it is making ranged attacks) against its preferred target. If it has no applicable subsequent actions, it moves into melee reach of its preferred target. 
+
+### Example
+
+Here are the gambits for the taxidermic dog. On a roll of 1, it takes no actions but becomes resistant to all damage. On a roll of 4, it acts in the early monster phase, by moving (preferring an enemy already adjacent to an ally even if it is already adjacent to another enemy) and then biting with its jaws. 
+
+> **Gambits**  
+> *Prefer enemies already adjacent to allies.*   
+> ⚀ Ⅰ resist all 5 until the end of the round  
+> ⚁⚂ Ⅱ Jaws > Reposition  
+> ⚃⚄ Ⅱ Reposition > Jaws  
+> ⚅ Ⅲ Stride > Jaws > Jaws
+
+## Scenario: Basement Crawl
+
+The player controls five kobolds (and their pet cat) in two encounters, with the dice determining how the enemies respond. 
+
+Print the hero, monster and spell/item cards. 
+
+### Adventurers
+
+* Kobold Bard 1
+
+* Kobold Druid 1 (Cat Companion 1; *scroll of burning hands*)
+
+* Kobold Fighter 1 (*minor healing potion*)
+
+* Kobold Sorcerer 1 (*scroll of* *ray of enfeeblement*)
+
+* Kobold Rogue 1
+
+### Encounter 1
+
+**Set up:** A basement on a 12x12 board.
+
+Place: 
+
+* 4 precarious piles (2x2 each) – obstructing terrain
+
+* 4 shelves (2x1 each) – solid terrain 
+
+* 1 fungus patch (made from five 2x2 patches of difficult terrain; the fungus leshy treats the fungus patch as normal terain)
+
+* 2 beds (1x2 each)
+
+* 2 flash beetles, one on each bed
+
+* 1 fungus leshy, on the fungus patch
+
+* 1 stone door and 1 wooden door, in opposite corners
+
+Deploy adventurers up to 4 squares from the stone door.
+
+Set aside: 
+
+* 3 taxidermic dogs 
+
+* 1 briar doll
+
+* 4 flash beetles
+
+* 1 animated rocking horse
+
+**Start of Each Round (Including Round 1):** Roll 1d6 for each bed. On 4–6, place a new flash beetle on it. 
+
+**Start of Round 4:** Place the three taxidermic dogs adjacent to the wooden door. 
+
+**Start of Round 10:** Place the briar doll and animated rocking horse adjacent to the wooden door. 
+
+**When the fungus leshy is defeated:** Flash beetles stop spawning.  
+
+**The briar doll and rocking horse are defeated:** Scenario ends; all adventurers gain +1 Advance if you are using the campaign play rules. 
+
+#### Special rules
+
+**Soothe Beetle** ●● Target a beetle within 6 squares. If you succeed on a Nature check (Power 14) the target beetle won’t take actions until attacked or harmed. 
+
+**Precarious pile:** A creature can search (Interact, 1 AP) the pile with a Thievery check (Power 14). On a success, the pile is destroyed and roll 1d4. The first time that the number is equal to or less than the number of destroyed piles, the creature finds ablative armor plating. On a failure, the pile topples.
+
+A creature that moves through the pile must make an Athletics check (Power 14) to climb over it. On a failure, the pile topples.
+
+If the pile topples, creatures on and adjacent to the pile take 10 bludgeoning damage (Reflex half, Power 14) and the pile is removed from play.
+
+**Bed:** Difficult terrain for Medium and larger creatures; cover for Small and smaller creatures.
+
+**Fungus Patch:** A creature can search (Interact, 1 AP) the pile with Survival (Power 16). On a success, they find a healing potion (1–3 on 1d6) or a basic poison (4–6 on 1d6). Each item can only be found once; on the next success, the remaining item is found.
+
+### Encounter 2
+
+**Set up:** A garden on a 12x12 board.
+
+* 4 hedges (each 1x4) – barriers 
+
+* 4 boulders (1x1) – solid terrain 
+
+* 3 holes (1x1) – difficult terrain
+
+* 1 fountain (2x2) – difficult terrain 
+
+* 1 shed (2x2) somewhere at the top of the board – solid terrain
+
+* 1 faerie dragon
+
+Deploy the adventurers in the two bottom rows. 
+
+Set aside: 
+
+* 3 reefclaws
+
+**Start of Rounds 2, 3 and 4:** Place a reefclaw adjacent to a hole (use a 1d3 to determine which).
+
+**Shed:** A creature can search (Interact, 1 AP) the shed using the Crafting skill (Power 16). On a success, they find a *fiery* hand weapon. 
+
+**When all enemies are defeated or the hero carrying the \*fiery\* weapon from the shed reach the bottom edge of the map:** Scenario ends; all adventurers gain +1 Advance if you are using the campaign play rules.
+
+# Game Mode: Wargaming
+
+In this variant, players choose a faction and then build armies from within that faction. 
+
+Rules for playing without a grid are provided, although there is no problem with playing on a grid if players prefer. 
+
+Two example factions and a variety of alternative deployments and victory conditions are provided in separate PDFs. The deployments and victory conditions originally appeared in *Last Alliance* by Chris Sakkas.
+
+## Factions
+
+Two example factions are provided: the Doughty Kingdom and the Redolent Halls.
+
+## Deployment zones
+
+When playing with these alternative deployment zones (provided in a separate PDF), players alternate deploying a creature from their warbands until all creatures have been placed.
+
+## Victory conditions
+
+If you are playing with one of these alternative victory conditions (provided in a separate PDF), do not place objectives unless specified. 
+
+Where these rules refer to a warband being “Broken”, it means three-quarters of the warband by points cost is helpless or has been eliminated. 
+
+If a player’s Victory Points exceed the other player’s by 5 or more, that player has won a major victory. Otherwise, they have won a minor victory. 
+
+## Gridless play
+
+For the most part, you can play *Path 2 Victory* without a grid by substituting “inches” any time the game refers to “squares”. Measure diagonal movement normally instead of imposing an extra cost for it. 
+
+### Ranges
+
+Something is within range if the distance between any point on the edge of the base of the attacker and any point on the edge of the base of the target is less than or equal to the range. 
+
+### Adjacency
+
+A creature is adjacent to another if there is less than 1 inch between both creatures’ bases. 
+
+### Targeting
+
+Look from the attacking figure’s perspective. If any part of the target figure is visible, the attacking figure has line of sight. If any part of the target figure is obscured, it has cover or concealment (as applicable). 
+
+If any model that is sculpted unusually (for example, they are kneeling, or have been posed standing on a large rock), imagine it standing in a neutral pose to determine line of sight, cover and concealment. 
+
+### Areas of effect
+
+Measure emanations and bursts as circles of the radius specified (bursts are measured from a point, emanations from the edge of the base of the creature causing the emanation). 
+
+Measure cones as quarter-circles of the radius specified. 
+
+Measure lines as a line of no thickness of the length specified. 
 
 # Appendix: Converting from PF2e
 
@@ -915,7 +1088,7 @@ Converting creatures from PF2e is more art than science, but here are some tips.
 
 **Points Cost:** Calculate based on the below table: 
 
-*Table 1: Points cost by level*
+##### Table 2: Points cost by level
 
 | **Level** | **Cost** | **Upgrade cost** | **Level** | **Cost** | **Upgrade cost** |
 | --------- | -------- | ---------------- | --------- | -------- | ---------------- |
