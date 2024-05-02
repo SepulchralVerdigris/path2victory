@@ -12,6 +12,8 @@ The skirmish game inside PF2e
 
 *Path 2 Victory* can be played on a one-inch grid, or you can play without a grid and use rulers and measuring tapes to measure distances. One inch in game represents five feet in the real world.
 
+Along with the basic rules, this book describes three “game modes” that change how you play: “matched play” for competitive games, “solo adventuring” so you can play through PF2e adventures by yourself and “wargaming” that resembles other tabletop miniatures game. 
+
 *Path 2 Victory* is open source and community-built, which means you can take it and adapt it to fit your needs. 
 
 ## How was *Path 2 Victory* created?
@@ -24,11 +26,11 @@ The skirmish game inside PF2e
 
 * The [Proficiency without Level](https://2e.aonprd.com/Rules.aspx?ID=1370) variant rule applies, which makes fights between creatures of very different levels still viable. 
 
-* All creatures get two actions (called “action points” in *Path 2 Victory*) instead of three on their turn, which makes the game quicker and reduces maximum movement by a third, allowing for a smaller play area.
+* By default, creatures get two actions (called “action points” in *Path 2 Victory*) instead of three on their turn, which makes the game quicker and reduces maximum movement by a third, allowing for a smaller play area.
 
 * A round consists of players alternating activating creatures (or groups of creatures) until all creatures have acted, at which point the round ends and a new one begins. 
 
-* Conditions have been simplified, and by default creatures loses every condition at the end of their turn. 
+* Conditions have been simplified, and by default creatures lose every condition at the end of their turn. 
 
 * Damage can be of multiple types (5 fire and poison damage, for example).
 
@@ -158,21 +160,14 @@ Other common features included in this shorthand are described later.
 
 ## Building a warband
 
-There are several ways you can put together a *Path 2 Victory* warband. 
+There are two ways to build a warband in the basic *Path 2 Victory* rules. Others are described in different game modes at the back of the book. 
 
 1. **Narrative Play:** Each player chooses the creatures that are appropriate for the story. You can play *Path 2 Victory* as a roleplaying game, or use it to model a larger skirmish or battle in an existing PF2e campaign. 
 2. **Balanced, Unlimited Play:** Players agree on a number of points for each warband. Each player selects creatures with total point costs equal to or below the number of points agreed. 
-3. **Balanced, Limited Play:** As unlimited play, but each player selects an alignment, and then selects creatures of that alignment or adjacent alignments (see below).
-4. **Random Box Recruitment:** Each player buys a couple of boxes of random pre-painted miniatures, and then selects creatures from their assortment with total point costs equal to or below 200 (or other agreed number). 
-5. **Campaign Play:** Players assemble and cultivate a warband over one or more adventures, with each encounter potentially changing their warband. Basic details for campaign play are described in an appendix. 
 
 ### Single most expensive creature
 
-In all forms of play except “Narrative Play”, no single creature can cost more than half of a warband’s points. For example, a warband of 200 points can contain a young red dragon (90 points) but not a crag linnorm (192 points).
-
-### Alignments
-
-There are nine factions in *Path 2 Victory:* the nine alignments. Each player chooses an alignment for their warband, but can also recruit those of “adjacent” alignments and True Neutral creatures. For example, a Lawful Evil warband can also include Lawful Neutral, Neutral Evil and True Neutral creatures. A Neutral Good warband can also include Lawful Good, Chaotic Good and True Neutral creatures. A True Neutral warband can also include Neutral Good, Lawful Neutral, Chaotic Neutral and Neutral Evil creatures. 
+Unless playing a narrative game that has special requirements, no single creature should cost more than half of a warband’s points. For example, a warband of 200 points can contain a young red dragon (90 points) but not a crag linnorm (192 points).
 
 ### Points by level
 
@@ -847,7 +842,7 @@ A swallowed creature can attack its swallower, who is off-guard against the atta
 
 When a creature escapes, place it in an unoccupied space adjacent to the swallower.
 
-# Game Mode: Solo adventuring
+# Game mode: Solo adventuring
 
 In this variant, dice rolls determine how enemy creatures act, allowing a player to run an adventure or campaign by themselves.
 
@@ -1028,7 +1023,7 @@ Set aside:
 
 **When all enemies are defeated or the hero carrying the \*fiery\* weapon from the shed reach the bottom edge of the map:** Scenario ends; all adventurers gain +1 Advance if you are using the campaign play rules.
 
-# Game Mode: Wargaming
+# Game mode: Wargaming
 
 In this variant, players choose a faction and then build armies from within that faction. 
 
@@ -1077,6 +1072,31 @@ Measure emanations and bursts as circles of the radius specified (bursts are mea
 Measure cones as quarter-circles of the radius specified. 
 
 Measure lines as a line of no thickness of the length specified. 
+
+# Game mode: Matched play
+
+This game mode is for balanced, competitive play. 
+
+## Building a warband
+
+In matched play, there are two other options for building a warband: 
+
+1. **Balanced, Limited Play:** As unlimited play, but each player selects an alignment, and then selects creatures of that alignment  or adjacent alignments (see below).
+2. **Random Box  Recruitment:** Each player buys a couple of  boxes of random pre-painted miniatures, and then selects creatures from  their assortment with total point costs equal to or below 200 (or other agreed  number). 
+
+### Alignments
+
+There are nine factions in *Path 2 Victory:* the nine alignments. Each player chooses an alignment for their warband, but can also recruit those of “adjacent” alignments and True Neutral creatures. For example, a Lawful Evil warband can also include Lawful Neutral, Neutral Evil and True Neutral creatures. A Neutral Good warband can also include Lawful Good, Chaotic Good and True Neutral creatures. A True Neutral warband can also include Neutral Good, Lawful Neutral, Chaotic Neutral and Neutral Evil creatures. 
+
+## Terrain tiles
+
+Terrain tiles are 8-square by 5-square tiles that can be laid on a grid. They can represent points of interest, natural features or rooms in a dungeon, and are made up of the standard *Path 2 Victory* terrain features (difficult terrain, obstructing terrain, etc).
+
+Each player chooses and places three tiles in a small game, four in a medium game and eight in a large game. Place them on a grid of the appropriate dimensions for the size of the game. 
+
+Typically, between the tiles is open ground. Alternative scenarios could have void, shallow water, deep water, rubble, or solid terrain between the tiles, or have the tiles represent raised sections (with perhaps a 2-square drop to the ground below). However, different tile placement rules might be needed to have fair, balanced games.
+
+Example terrain tiles are provided in a separate PDF. 
 
 # Appendix: Converting from PF2e
 

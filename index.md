@@ -1,6 +1,6 @@
 *Path 2 Victory* is a hack of PF2e that turns the expansive roleplaying game into an accessible miniatures skirmish game. 
 
-[Base Game](Base Game.md) v1.4 ([PDF download](Path 2 Victory 1.3.pdf) v 1.3)
+[Base Game](Base Game.md) v1.4 ([PDF download](Path 2 Victory 1.4.pdf) v 1.4)
 
 [Appendices](Appendices.md)
 
@@ -13,13 +13,15 @@ Wargame printouts:
 * [Deployment Cards](Deployments.pdf)
 * [Paths to Victory Cards](Paths to Victory.pdf)
 
+Matched play printouts: 
+
+* [Example Terrain Tiles](Example Terrain Tiles.pdf)
+
 ## Open Game Content
 
-[Legacy Cards](cards.html)
+[Monster Cards](cards.html)
 
-[Legacy Spells](Legacy Spells.md)
-
-[Open Game License](Open Game License.md)
+[Spells](Legacy Spells.md)
 
 Basement Crawl printouts:
 
@@ -29,7 +31,9 @@ Basement Crawl printouts:
 
 Wargame printouts: 
 
-* [Factions](Factions.pdf) (Open Game Content, *not* ORC Licensed)
+* [Factions](factions.html)
+
+[Open Game License](Open Game License.md)
 
 # How you can help
 

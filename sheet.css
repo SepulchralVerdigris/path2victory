@@ -1,0 +1,73 @@
+.other-tags {font-style: italic;
+display: inline;}
+
+
+h3 {margin-bottom: 0;}
+
+.align-symbol {display: inline;}
+
+th { background-color: darkgreen;
+color: white; padding-left: 7px; padding-right: 7px; text-align: center; font-size: 10pt;}
+
+td {text-align: center; font-size: 10pt;}
+
+table, th, td {border: 1px solid darkgreen;
+  border-collapse: collapse; margin-bottom: 5;}
+
+.stats-and-features {
+	display: flex;
+	flex-direction: row;
+}
+.feature-name {
+	font-weight: bold;
+	padding-top: 5px;
+	display: inline;
+}
+
+.feature-top {display: inline;
+font-style: italic;}
+
+.other-features {
+	font-style: italic;
+padding-bottom: 7px;
+}
+
+.name {
+	display:inline;
+    font-weight: bold;
+    color: darkgreen;
+	font-size: 12pt;
+}
+
+.feature {padding-bottom: 7px;}
+
+.points {
+	display: inline;
+	float: right;
+	margin-left: auto;
+	margin-right: 5px;
+	    position: absolute;
+    right: 0;
+	font-size: 9pt
+}
+.card {
+	justify-content: space-between;
+	width: 2.5in;
+	min-height: 3.5in;
+	border: 2px solid black;
+	border-radius: 5px;
+	position: relative;
+    margin: 10px;
+}
+
+.feature-uses {display: inline;}
+
+.card-interior {
+	padding-top: 5px; 
+	padding-left: 5px;
+	padding-right: 5px;
+}
+
+h3 {
+    color: darkgreen;
+}
