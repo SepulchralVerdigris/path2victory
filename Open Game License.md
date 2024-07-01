@@ -82,27 +82,37 @@ THIS LICENSE IS APPROVED FOR GENERAL USE. PERMISSION TO DISTRIBUTE THIS LICENSE 
 
 ***Pathfinder Adventure: A Fistful of Flowers\*** © 2022, Paizo Inc.; Authors: Eleanor Ferron, Linda Zayas-Palmer.
 
-## 154
+## RoE
 
-**Open Game License v 1.0a** © 2000, Wizards of the Coast, Inc.
+***Pathfinder Rage of Elements\*** © 2023, Paizo Inc.; Authors:  Logan Bonner, Jason Bulmahn, James Case, Jessica Catalan, Andrew D.  Geels, Sen H.H.S., Patrick Hurley, Jason Keeley, Luis Loza, Mark  Moreland, Jonathan Morgantini, AJ Neuro, Jessica Redekop, Solomon St.  John, Michael Sayre, Mark Seifter, Shahreena Shahrani, Shay Snow, Levi  Steadman, Mari Tokuda, Ruvaid Virk, Andrew White, and Linda  Zayas-Palmer.
 
-**System Reference Document** © 2000, Wizards of the Coast, Inc.; Authors: Jonathan Tweet, Monte Cook, and Skip Williams, based on material by E. Gary Gygax and Dave Arneson.
+## G&G
 
-***Pathfinder Core Rulebook (Second Edition)\*** © 2019, Paizo Inc.; Authors: Logan Bonner, Jason Bulmahn, Stephen Radney-MacFarland, and Mark Seifter.
+***Pathfinder Guns & Gears\*** © 2021, Paizo Inc.; Authors:  Logan Bonner, Jessica Catalan, John Compton, Andrew D. Geels, Steven  Hammond, Sen H.H.S., Brent Holtsberry, Jason Keeley, Dustin Knight, Luis Loza, Ron Lundeen, Chris Mastey, Liane Merciel, Jacob W. Michaels, Dave Nelson, Samantha Phelan, Mikhail Rekun, Stephen Radney-MacFarland,  Sydney Meeker, Kendra Leigh Speedling, Michael Sayre., Mark Seifter,  Andrew Stoeckle, Calliope Lee Taylor, Andrew White, and Scott D. Young.
 
-**The Book of Fiends** © 2003, Green Ronin Publishing; Authors: Aaron Loeb, Erik Mona, Chris Pramas, and Robert J. Schwalb.
+## 152, 153, 154
 
-**Armies of the Abyss** © 2002, Green Ronin Publishing; Authors: Erik Mona and Chris Pramas.
+**Pathfinder Core Rulebook (Second Edition)** © 2019, Paizo Inc.; Authors: Logan Bonner, Jason Bulmahn, Stephen Radney-MacFarland, and Mark Seifter.
 
-**The Avatar’s Handbook** © 2003, Green Ronin Publishing; Authors: Jesse Decker and Chris Thomasson.
+**Pathfinder Adventure Path #152: Legacy of the Lost God** © 2020, Paizo Inc.; Authors: Jenny Jarzabski, with Stephen Glicker, Luis Loza, Ron Lundeen, Andrew Mullen, and David N. Ross.
 
-**Book of the Righteous ©** 2002, Aaron Loeb.
+**The Book of Fiends** © 2003, Green Ronin Publishing; Authors: Aaron Loeb, Erik Mona, Chris Pramas, and Robert J. Schwalb. 
 
-**Legions of Hell** © 2001, Green Ronin Publishing; Author: Chris Pramas.
+**Armies of the Abyss** © 2002, Green Ronin Publishing; Authors: Erik Mona and Chris Pramas. 
 
-**The Unholy Warrior’s Handbook** © 2003, Green Ronin Publishing; Author: Robert J. Schwalb.
+**The Avatar’s Handbook** © 2003, Green Ronin Publishing; Authors: Jesse Decker and Chris Thomasson. 
 
-**Demon Lord, Pazuzu from the \*Tome of Horrors Complete\*** © 2011, Necromancer Games, Inc., published and distributed by Frog God Games; Author: Scott Greene, based on material by Gary Gygax.
+**Book of the Righteous** © 2002, Aaron Loeb. 
+
+**Legions of Hell** © 2001, Green Ronin Publishing; Author: Chris Pramas. 
+
+**The Unholy Warrior’s Handbook** © 2003, Green Ronin Publishing; Author: Robert J. Schwalb. 
+
+**Demon Lord, Jubilex from the Tome of Horrors Complete** © 2011, Necromancer Games, Inc., published and distributed by Frog God  Games; Author: Scott Greene, based on material by Gary Gygax. 
+
+**Demon Lord, Pazuzu from the Tome of Horrors Complete** © 2011, Necromancer Games, Inc., published and distributed by Frog God  Games; Author: Scott Greene, based on material by Gary Gygax.
+
+ **Pathfinder Adventure Path #153: Life’s Long Shadows** © 2020, Paizo Inc.; Authors: Greg A. Vaughan, with Anthony Bono, Jacob  W. Michaels, Andrew Mullen, Patrick Renie, Alex Riggs, Timothy Snow, and Amber Stewart.
 
 ***Pathfinder Adventure Path #154: Siege of the Dinosaurs\*** © 2020, Paizo Inc.; Authors: Kate Baker, with Luis Loza, Andrew Mullen, Jason Nelson, Jennifer Povey, David Schwartz, and Amber Stewart.
 
@@ -145,6 +155,10 @@ THIS LICENSE IS APPROVED FOR GENERAL USE. PERMISSION TO DISTRIBUTE THIS LICENSE 
 ***Pathfinder Core Rulebook\*** (Second Edition) © 2019, Paizo Inc.; Authors: Logan Bonner, Jason Bulmahn, Stephen Radney-MacFarland, and Mark Seifter.
 
 ***Pathfinder Crown of the Kobold King\*** © 2022, Paizo Inc.; Authors: Jason Bulmahn, Tim Hitchcock, Nicolas Logue, and F. Wesley Schneider.
+
+## Dark Archive
+
+
 
 ## 181
 

@@ -1,42 +1,35 @@
 # Path 2 Victory
 
-The skirmish game inside PF2e
+**The skirmish game inside PF2e**
 
 *Path 2 Victory* is a hack of PF2e that turns the expansive roleplaying game into an accessible miniatures skirmish game. 
 
-2024, version 1.40
+2024, version 1.6
 
 ## Introduction
 
-*Path 2 Victory* is a miniatures skirmish game, which means you gather a handful of miniature figures to represent the creatures in your warband, and you move them around a board with scenery where they fight one another and pursue other objectives. Every figure (called a “creature”) has stats, actions and other details associated with it, which are detailed on its creature card. 
+*Path 2 Victory* is a miniatures skirmish game, which means you use miniature figures to represent the creatures in your party, and you move them around a board with scenery where they fight one another and pursue other objectives. Every creature has stats, actions and other details associated with it, which are detailed on its creature card. 
 
 *Path 2 Victory* can be played on a one-inch grid, or you can play without a grid and use rulers and measuring tapes to measure distances. One inch in game represents five feet in the real world.
 
-Along with the basic rules, this book describes three “game modes” that change how you play: “matched play” for competitive games, “solo adventuring” so you can play through PF2e adventures by yourself and “wargaming” that resembles other tabletop miniatures game. 
+Along with the basic rules, this book describes three “game modes” that change how you play: “matched play” for competitive games, “solo adventuring” to play through PF2e adventures by yourself and “wargaming” that resembles other miniatures games.  
 
-*Path 2 Victory* is open source and community-built, which means you can take it and adapt it to fit your needs. 
+*Path 2 Victory* is open source and community-built, which means you can homebrew it to your needs. 
 
 ## How was *Path 2 Victory* created?
 
 *Path 2 Victory* is a standalone game, but it is heavily based on – and mostly cross-compatible with – the popular tabletop roleplaying game PF2e. *Path 2 Victory* differs from PF2e in several major ways: 
 
-* Each creature has a points cost associated with it, based on how powerful it is. The more powerful the creatures in your warband, the fewer you are allowed to have. 
-
+* Each creature has a points cost associated with it, based on how powerful it is. 
 * There are rules for deployment, scoring objectives and when the game ends. 
-
 * The [Proficiency without Level](https://2e.aonprd.com/Rules.aspx?ID=1370) variant rule applies, which makes fights between creatures of very different levels still viable. 
-
-* By default, creatures get two actions (called “action points” in *Path 2 Victory*) instead of three on their turn, which makes the game quicker and reduces maximum movement by a third, allowing for a smaller play area.
-
-* A round consists of players alternating activating creatures (or groups of creatures) until all creatures have acted, at which point the round ends and a new one begins. 
-
+* By default creatures get two actions (called “action points”) instead of three on their turn.
+* A round consists of players alternating activating creatures until all creatures have acted. 
 * Conditions have been simplified, and by default creatures lose every condition at the end of their turn. 
-
 * Damage can be of multiple types (5 fire and poison damage, for example).
-
-* Resistance has been turned into a random roll so that all creatures have a chance to do damage to creatures with resistance. 
-
-* There are new rules for cover to simplify the process and allow for a creature to be hit if it provides cover to another. 
+* Resistance has been turned into a random roll so that all creatures have a chance to do damage. 
+* There are new rules for cover to allow for a creature to be hit if it provides cover to another. 
+* Spellcasters get fewer spells, but cast all of them at the highest rank possible. 
 
 Some of the most significant of these changes were originally suggested by GluMaz [on Reddit](https://www.reddit.com/r/Pathfinder2e/comments/fnmo01/pathfinder_2e_as_base_rules_for_skirmish_wargaming/). 
 
@@ -48,19 +41,25 @@ This product is licensed under the ORC License to be held in the Library of Cong
 
 This product is based on the following Licensed Material:
 
-> **Pathfinder Player Core** © 2023 Paizo Inc., Designed by Logan Bonner, Jason Bulmahn, Stephen Radney-MacFarland, and Mark Seifter. Authors: Alexander Augunas, Kate Baker, Logan Bonner, Jason Bulmahn, Carlos Cabrera, Calder CaDavid, James Case, Eleanor Ferron, Steven Hammond, Joan Hong, Vanessa Hoskins, James Jacobs, Jenny Jarzabski, Erik Keith, Dustin Knight, Lyz Liddell, Luis Loza, Patchen Mortimer, Dennis Muldoon, Stephen Radney-MacFarland, Mikhail Rekun, David N. Ross, Michael Sayre, Mark Seifter, Kendra Leig Speedling, Mark Thompson, Clark Valentine, Andrew White, Landon Winkler, and Linda Zayas-Palmer
+>  **Pathfinder Player Core** © 2023 Paizo Inc., Designed by Logan Bonner, Jason Bulmahn, Stephen Radney-MacFarland, and Mark Seifter. Authors: Alexander Augunas, Kate Baker, Logan Bonner, Jason Bulmahn, Carlos Cabrera, Calder CaDavid, James Case, Eleanor Ferron, Steven Hammond, Joan Hong, Vanessa Hoskins, James Jacobs, Jenny Jarzabski, Erik Keith, Dustin Knight, Lyz Liddell, Luis Loza, Patchen Mortimer, Dennis Muldoon, Stephen Radney-MacFarland, Mikhail Rekun, David N. Ross, Michael Sayre, Mark Seifter, Kendra Leig Speedling, Mark Thompson, Clark Valentine, Andrew White, Landon Winkler, and Linda Zayas-Palmer
+>
+> **Pathfinder GM Core** © 2023 Paizo Inc., Designed by Logan Bonner and Mark Seifter. Authors: Amirali Attar Olyaee, Logan Bonner, Creighton Broadhurst, Jason Bulmahn, James Case, Jesse Decker, Eleanor Ferron, Fabby Garza Marroquín, Jaym Gates, Matthew Goetz, James Jacobs, Brian R. James, Jenny Jarzabski, Dustin Knight, Jason LeMaitre, Lyz Liddell, Luis Loza, Ron Lundeen, Stephen Radney-MacFarland, David N. Ross, Michael Sayre, Mark Seifter, Owen K.C. Stephens, Amber Stewart, Clark Valentine, Landon Winkler, and Linda Zayas-Palmer
+>
+> **Pathfinder Monster Core** © 2024 Paizo Inc., Authors: Alexander Augunas, Dennis Baker, Kate Baker, Joshua Birdsong, Joseph Blomquist, Logan Bonner, Jason Bulmahn, James Case, John Compton, Paris Crenshaw, Adam Daigle, Darrin Drader, Brian Duckwitz, Robert N. Emerson, Scott Fernandez, Eleanor Ferron, Leo Glass, Matthew Goodall, BJ Hensley, Thurston Hillman, Vanessa Hoskins, James Jacobs, Jenny Jarzabski, Miko Kallio, Jason Keeley, Jeff Lee, Lyz Liddell, Luis Loza, Ron Lundeen, Robert G. McCreary, Philippe-Antoine Menard, Jacob W. Michaels, Dave Nelson, Jason Nelson, Tim Nightengale, Stephen Radney-MacFarland, Mikhail Rekun, Patrick Renie, Alex Riggs, David N. Ross, Michael Sayre, Mark Seifter, Chris S. Sims, Amber Stewart, Jeffrey Swank, William Thompson, Jason Tondro, Clark Valentine, Landon Winkler, Tonya Woldridge, and Linda Zayas-Palmer
 
 If you use our Licensed Material in your own published works, please credit us as follows:
 
-> **Path 2 Victory** © 2024
+>  **Path 2 Victory** © 2024
 
-#                                  How to read a creature card
+**Expressly Designated Licensed Material:** The entirety of this product is Expressly Designated Licensed Material.
 
-<img src="img/basilisk.png" style="float:right; width: 2.5in; margin-left:15px;" />Creatures are the living (and unliving) participants of battles*.* Monsters, heroes, undead, bystanders and livestock are all creatures. Each creature is represented by a figure. 
+# Creature cards<img src="img/basilisk.png" style="float:right; width: 2.5in; margin-left:15px;" />
+
+Creatures are the living (and unliving) participants of battles*.* Monsters, heroes, undead, bystanders and livestock are all creatures. Each creature is represented by a figure, and the special rules relating to that creature are printed on its creature card. 
 
 **Name:** The name of the creature, in this case “Basilisk”. 
 
-**Points Cost:** How strong or valuable the creature is in a warband. In most games of *Path 2 Victory,* each player will put together a warband of the same number of points, calculated by adding up the points cost of each creature in their warband. 
+**Points Cost:** How strong or valuable the creature is in a party. In most games of *Path 2 Victory,* each player will put together a party of the same number of points, calculated by adding up the points cost of each creature in their party.
 
 **Alignment:** The nine alignments are the factions of *Path 2 Victory,* and each has a corresponding symbol: 
 
@@ -70,17 +69,17 @@ If you use our Licensed Material in your own published works, please credit us a
 | **Neutral** | 👁️ Lawful neutral | ⚖ True neutral | 🌀 Chaotic neutral |
 | **Evil** | ✊Lawful evil     | 👿 Neutral evil | ⛈ Chaotic evil    |
 
-**Size:** How large the monster is. Tiny, Small and Medium creatures occupy a single square (1” by 1”). Large creatures occupy four squares (total 2” by 2”), Huge creatures nine squares (total 3” by 3”) and Gargantuan creatures sixteen squares (total 4” by 4”). Miniatures usually sit on a circular or square base the same width as the space that the creature occupies. 
+**Size:** How large the monster is. Tiny, Small and Medium creatures occupy a single square (1” by 1”). Large creatures occupy four squares (total 2” by 2”), Huge creatures nine squares (total 3” by 3”) and Gargantuan creatures sixteen squares (total 4” by 4”). Miniatures usually sit on a circular or square base the same width as the space that the creature occupies.  
 
-**Tags:** Any details about the creature, like its body shape or origin. These have no effect by default, but some powers will refer to them (for example, a spell that affects beasts will affect a basilisk).
+**Traits:** Any details about the creature, like its body shape or origin. These have no effect by default, but some powers will refer to them (for example, a spell that affects beasts will affect a basilisk).
 
-**Level:** The relative power of the creature, from -1 to 14.
+**Level:** The creature’s relative power, from -1 to 14.
 
 ### Stats
 
 Each creature has eight stats.
 
-**Fight:** A creature’s Fight is how likely it is to hit with a strike (like a sword blow, an arrow shot or targeted spells). 
+**Fight:** Fight is how likely a creature is to hit with a strike (like a sword blow, arrow shot or targeted spell). 
 
 **Armor:** A creature’s Armor is how hard it is to hit with a strike. 
 
@@ -88,37 +87,35 @@ Each creature has eight stats.
 
 **Saving Throws (Fortitude, Reflex and Will):** These three stats work the same way: they can cause a power to be negated or have a diminished effect.
 
-**HP:** HP (“hit points”) is the maximum amount of damage a creature can take before it becomes helpless and begins to die. The creature’s current HP begins at its maximum, and is reduced as the creature takes damage. If the creature is healed, its current HP increases – but can never exceed the maximum HP. 
+**HP:** HP (“hit points”) is the total amount of damage a creature can take before it becomes helpless and begins to die. The creature’s current HP begins at maximum, and is reduced as the creature takes damage. If the creature is healed, its current HP increases – but can never exceed the maximum HP. 
 
 When a creature reaches 0 HP, it is dying. It falls prone, gains the helpless status and cannot act except to make recovery checks on its turn (more details under “Conditions and combat statuses” and “Dying”, below). 
 
-**Speed:** Speed is the maximum distance the creature can move with a single Stride action. 
+**Speed:** Speed is the maximum number of squares the creature can move with a single Stride action. 
 
 Some creatures have special movement modes, represented with a symbol. These include Flight, Burrowing, Wall Climb and Aquatic and are described under “Movement modes” below.
 
 ### Features
 
-The special rules governing a creature, including the special actions that it can take, are described on its card. Each feature has some or all of the following details: 
+The special rules governing a creature, including the special actions that it can take, are described on its card. Each feature has some of the following details: 
 
 **Number of Uses:** When a feature is marked with ☐, 🄳 or 🄴 it means that it can only be used that many times in a battle. Each time it is used, check off one of the boxes. Once all boxes have been checked off, it cannot be used again. 
 
 The difference between the types of checkbox only matter for long-term play. In long-term play: 
 
 * ☐ Consumable: After this box is checked off, it is never recovered. The potion is drunk or the scroll burns up.
-
-* 🄳 Daily: After this box is checked off, it remains checked until the creature can rest safely for eight hours. 
-
-* 🄴 Encounter: After this feature is used, it remains checked until the end of the battle. 
+* 🄳 Daily: After this box is checked off, it is recovered when creature rests for eight hours. 
+* 🄴 Encounter: After this box is checked off, it is recovered after the scenario ends. 
 
 **Name:** The name of the feature.
 
-**Action Points:** Some features are actions; these are active features that must be performed by the creature. 
+**Action Points:** Some features are actions; these only come into effect if the creature uses them. 
 
-A creature typically gets two action points on its turn, and can spend those action points to perform actions. An action that costs one action point is indicated with one dot (“●”); an action that costs two action points is indicated with two dots (“●●”). 
+A creature typically gets two action points (AP) on its turn, which it spends to perform actions. A cost of 1 AP is indicated with “●”; a cost of 2 AP with “●●”. 
 
-Some actions are reactions (indicated with ↻); they are performed outside of the creature’s turn. Between each of its turns, a creature can only take one reaction. 
+Some actions are reactions (indicated with ↻); they can be performed outside of the creature’s turn. From the start of the creature’s turn to the start of its next turn, a creature can only take one reaction. 
 
-Some actions require zero action points – these are called free actions and are indicated with a hollow dot (“○”). These can only be performed on the creature’s turn, but they do not cost any action points to use.
+Some actions cost zero AP – these are called free actions and are indicated with “○”. If these have a precondition, they can be used outside of a creature’s turn if that precondition is met. Otherwise, these can only be performed on the creature’s turn. 
 
 **Precondition:** Some features, especially reactions, may have preconditions that must be met before they can be used. For example, the basilisk’s *petrifying glance* can only be used if and when a creature within 6 squares and within line of sight begins its turn.
 
@@ -128,52 +125,49 @@ A feature does not *have* to be used just because its precondition is met.
 
 **Strike:** If an action is a strike, it will say so here. 
 
-When a creature makes a strike, it rolls a 20-sided die (1d20) and adds its Fight. If the result equals or exceeds the target’s Armor, the strike “hits”, meaning that it has the effect. 
+When a creature makes a strike, it rolls a 20-sided die (1d20) and adds its Fight. If the result equals or exceeds the target’s Armor, the strike “hits”, meaning that it has the listed effect. 
 
 **Effect:** The effect or rules of the feature. For a strike, this effect only applies if the strike hits. 
 
-Some effects can be avoided or reduced in effect if the target fails on a saving throw. The entry will say something like “Will negates” or “Reflex half”. The target rolls a 20-sided die (1d20) and adds the specified saving throw (Fortitude, Reflex or Will). If the result equals or exceeds the attacker’s Power, then the effect is negated or the damage taken is halved (as applicable). 
+Some effects can be avoided or reduced in effect if the target fails on a saving throw. The entry will say something like “Will negates” or “Reflex half”. The target rolls a 20-sided die (1d20) and adds the specified saving throw (Fortitude, Reflex or Will). If the result equals or exceeds the attacker’s Power, then the effect is negated or the damage is halved (as applicable). 
 
-Some features give a condition as an effect (for example, “slowed”, “stunned” or “rattled”). Conditions are described in an appendix.
+Some features give a condition as an effect (for example, “slowed”, “stunned” or “rattled”). 
 
 ### Standard features
 
-At the bottom of a creature’s card are listed in italics certain common features, without details on how they work. 
+At the bottom of a creature’s card are listed in italics certain common features, without details. 
 
-If a skill name is listed (like Acrobatics, Occultism or Society), it means the creature is trained in that skill. At certain times, for example to claim an objective or peform a physical feat like jumping or climbing, a creature must succeed on a skill check to be successful. To make a skill check, roll 1d20 and add the applicable saving throw. Subtract 5 if the creature is not trained in the skill. If the result exceeds the Power specified, the skill check is successful. 
+If a skill name is listed (like Acrobatics, Occultism or Society), it means the creature is trained in that skill. At certain times, for example to claim an objective or perform a physical feat like jumping or climbing, a creature must succeed on a skill check to be successful. To make a skill check, roll 1d20 and add the applicable saving throw. Subtract 5 if the creature is not trained in the skill. If the result exceeds the Power specified, the skill check is successful. 
 
 “Immune”, “resist” and “weak” followed by a damage type indicate that the creature takes no damage, less damage or more damage from attacks doing that type of damage. Immune is also used for conditions; it means that the creature does not gain that condition, even if it otherwise would. 
-
-Other common features included in this shorthand are described later. 
 
 # Getting started
 
 ## What you need to play
 
 * Several miniatures each
+* 20-sided and six-sided dice (“d20s” and “d6s”)
+* Tokens to track conditions, damage, etc.
+* A grid map 
+* A way to draw or mark terrain and objectives
 
-* At least one 20-sided die (a “d20”) and one six-sided die (a “d6”)
+## Building a party
 
-* Some tokens to track conditions, damage, etc.
+There are two ways to build a party in the basic rules. Other game modes are described in the appendices. 
 
-* A grid map of about 24 by 18 squares and a way to draw or mark terrain and objectives. 
+**Narrative Play:** Each player chooses the creatures that are appropriate for the story. You can play *Path 2 Victory* as a rules-light roleplaying game, or use it to model a battle in an existing PF2e campaign. 
 
-## Building a warband
-
-There are two ways to build a warband in the basic *Path 2 Victory* rules. Others are described in different game modes at the back of the book. 
-
-1. **Narrative Play:** Each player chooses the creatures that are appropriate for the story. You can play *Path 2 Victory* as a roleplaying game, or use it to model a larger skirmish or battle in an existing PF2e campaign. 
-2. **Balanced, Unlimited Play:** Players agree on a number of points for each warband. Each player selects creatures with total point costs equal to or below the number of points agreed. 
+**Balanced, Unlimited Play:** Players agree on a number of points for each party. Each player selects creatures with total point costs equal to or below the number of points agreed. 
 
 ### Single most expensive creature
 
-Unless playing a narrative game that has special requirements, no single creature should cost more than half of a warband’s points. For example, a warband of 200 points can contain a young red dragon (90 points) but not a crag linnorm (192 points).
+Unless playing a narrative game that has special requirements, no single creature should cost more than half of a party’s points. For example, a party of 200 points can contain a young red dragon (90 points) but not a crag linnorm (192 points).
 
 ### Points by level
 
 The cost of a creature is calculated based on its level, plus a certain amount for every upgrade it has (if any). 
 
-##### Table 1: Points cost by level
+##### Table: Points cost by level
 
 | **Level** | **Cost** | **Upgrade cost** | **Level** | **Cost** | **Upgrade cost** |
 | --------- | -------- | ---------------- | --------- | -------- | ---------------- |
@@ -188,57 +182,50 @@ The cost of a creature is calculated based on its level, plus a certain amount f
 
 #### Upgrades
 
-Some creatures can take magic items or other add ons, or have upgrades specified on their creature card. Players can give one or more of these upgrades with a creature of that type, but pay an extra points cost for each upgrade based on the creature’s level (as shown in the table above). If a player brings multiple of the same type of creature, they can upgrade some and not others, or all.
+Some creatures can take magic items or other add ons, or have optional upgrades specified on their creature card. Each upgrade increases a creature’s point cost (as shown in the table above). If a player brings multiple of the same type of creature, they can upgrade some and not others, or all.
 
 # Setting up a standard game
 
 *Path 2 Victory* can be played in many different ways, with different terrain setups, deployment rules, victory conditions and so on. What is described below are the standard rules, which can be modified by agreement of the players or if playing a particular scenario. 
 
 1. Agree on a points cost for the game
-
-2. Each build a warband of that points cost or lower
-
+2. Each build a party of that points cost or lower
 3. Lay out a battle grid of appropriate size
-
 4. Alternate placing terrain
-
 5. Determine how many objectives are in play and alternate placing objectives
-
-6. Roll to see who chooses their deployment zone first. Each player chooses a deployment zone and deploys their warband in that zone. 
+6. Roll to see who chooses their deployment zone first. Each player chooses a deployment zone and deploys their party in that zone. 
 
 ## Victory condition
 
-Players are competing for whose warband can win the most victory points, mostly from objectives. 
+Players are competing for whose party can win the most victory points, mostly from objectives. 
 
-The player who has the most points worth of creatures in their warband still in play at the end of the game wins an additional +2 points, or +4 points if their opponent or opponents have no creatures still in play. 
+The player who has the most points worth of creatures in their party still in play at the end of the game wins an additional +2 points, or +4 points if their opponent or opponents have no creatures still in play. 
 
 ## Battle grid 
 
-Games of *Path 2 Victory* are played on a grid of one-inch by one-inch squares. 
+Games of *Path 2 Victory* are played on a grid of one-inch by one-inch squares. The size of the grid depends on the size of the game: small (150 points or fewer per side), medium (500 points or fewer per side) or large (over 500 points per side). 
 
-Small games of *Path 2 Victory* (150 points or fewer per side) can be played on a grid of about 24 squares by 18 squares. Each square is 1 inch by 1 inch, making the grid 2 feet by 1 ½ feet. Players deploy in opposite corners, up to 6 squares away from the corner. 
+| **Points  per party** | **Battle  grid size**    |
+| --------------------- | ------------------------ |
+| **150 or  fewer**     | Small: 24 by 18 squares  |
+| **500 or fewer**      | Medium: 36 by 24 squares |
+| **More  than 500**    | Large: 48 by 36 squares  |
 
-Medium games (500 points or fewer per side) should be played on a grid of about 36 squares by 24 squares (3 feet by 2 feet). Players deploy in opposite corners, up to 6 squares away from the corner. 
-
-Large games (more than 500 points per side) should be played on a grid of about 48 squares by 36 squares (4 feet by 3 feet). Players deploy on opposite long edges, up to 6 squares away from the edge. 
-
-If you want to play without a grid, see the appendix for details. 
+To play without a grid, see the wargaming mode. 
 
 ## Terrain
 
-Players alternate placing pieces of terrain (see the Terrain chapter for more details) until about a third to a half of the board is filled with terrain. Everywhere else is open ground (squares with no special terrain traits). 
+Players alternate placing pieces of terrain (see the Terrain chapter for more details) until about a third to a half of the board is filled with terrain. Everywhere else is open ground (squares with no special terrain). 
 
-Terrain tiles are standardized terrain pieces that are all 8 squares by 5 squares in dimensions. Some are described in the appendix. You can play *Path 2 Victory* by using terrain tiles instead for a more consistent and balanced experience. 
+Terrain tiles are standardized terrain pieces that are all 8 squares by 5 squares in dimensions. You can play with terrain tiles instead for a more consistent experience. 
 
 ## Objectives
 
-Objectives are desirable things on the board that warbands may want to interact with or control – anything from treasure chests and switches to activate or deactivate traps to wild animals and prisoners about to be sacrificed. Unless otherwise specified, objectives are difficult and obstructing terrain (see the Terrain chapter for more details), and a creature cannot end its move standing on the objective. 
+Objectives are desirable things on the board that characters may want to interact with or control – anything from treasure chests to wild animals and prisoners about to be sacrificed. Unless otherwise specified, objectives are difficult and obstructing terrain (see the Terrain chapter for more details), and a creature cannot end its move on the objective. 
 
-Each objective has a skill listed and a Power, usually Power 15. If a creature adjacent to the objective Interacts with it, they make a skill check. On a success, they claim the objective for their warband. A creature can claim an unclaimed objective or one claimed by another warband.
+Each objective has a skill listed and a Power, usually Power 15. If a creature adjacent to the objective Interacts with it, they make a skill check. On a success, they claim the objective for their party indefinitely, and until the end of the round their skill check result becomes the Power for any other party’s attempt to claim the objective. 
 
-At the end of each round, each warband scores 1 Victory Point for each objective they currently have claimed (whether they claimed the objective in that round or an earlier round).
-
-Players can choose objectives with special effects associated with them. 
+At the end of each round, each party scores 1 Victory Point for each objective they currently have claimed (whether they claimed the objective in that round or an earlier round).
 
 ### Standard objectives
 
@@ -257,8 +244,6 @@ Each objective is associated with several skills.
 | **Spectral Haunt** | Diplomacy   | Occultism    | Performance  | Religion    |
 | **Willful Sprite** | Deception   | Society      | Lore         | Survival    |
 
- 
-
 When an objective is placed, roll 1d6 to determine its Power and which skills can be used to claim it. 
 
 | **d6** | **Result**                    |
@@ -270,8 +255,6 @@ When an objective is placed, roll 1d6 to determine its Power and which skills ca
 | **5**  | Any of the 4 Skills, Power 15 |
 | **6**  | Any of the 4 Skills, Power 20 |
 
- 
-
 ## Deployment
 
 Deployment takes place in the deployment zones specified by the size of the battle grid. 
@@ -280,11 +263,11 @@ At the start of the first round, each player rolls a d20. The player that rolls 
 
 In other words, the player who picks last gets to deploy their creatures knowing how the other players are deployed. This hopefully compensates them for having fewer options (or just one option) for their deployment zone. 
 
-| **Points per warband** | **Battle grid size**     | **Deployment zones**                                 |
-| ---------------------- | ------------------------ | ---------------------------------------------------- |
-| **150 or fewer**       | Small: 24 by 18 squares  | Up to 6 squares from the corner, in opposite corners |
-| **500 or fewer**       | Medium: 36 by 24 squares | Up to 6 squares from the corner, in opposite corners |
-| **More than 500**      | Large: 48 by 36 squares  | Up to 6 squares from the edge, in opposite edges     |
+| **Points  per party** | **Deployment  zones**                                 |
+| --------------------- | ----------------------------------------------------- |
+| **150 or  fewer**     | Up to 6 squares from the corner,  in opposite corners |
+| **500 or fewer**      | Up to 6 squares from the corner, in  opposite corners |
+| **More  than 500**    | Up to 6 squares from the edge,  in opposite edges     |
 
 For free-for-all games where there are three or four players all fighting each other, go one size larger and always deploy in corners.
 
@@ -292,7 +275,7 @@ For free-for-all games where there are three or four players all fighting each o
 
 A *Path 2 Victory* game takes place over several rounds. 
 
-Every creature gets one turn to act each round. Players alternate activating creatures from their warband to take a turn. Once a creature has completed its turn, the next player gets to activate a creature to take their turn, and so on until every creature has been activated. If a player has activated all of their creatures, skip them until the rest of the players have activated all of their creatures.
+Every creature gets one turn to act each round. Players alternate activating creatures from their party to take a turn. Once a creature has completed its turn, the next player gets to activate a creature to take their turn, and so on until every creature has been activated. If a player has activated all of their creatures, skip them until the rest of the players have activated all of their creatures.
 
 Once all creatures have been activated, the round ends and a new one begins. The first player to activate is the one to the left of the player who was first to activate in the previous round. 
 
@@ -306,7 +289,7 @@ If both players agree to play to a fixed time limit, at the end of round 6 and e
 
 ## Taking a turn
 
-The player activates a creature in their warband that has not yet been activated this round. 
+The player activates a creature in their party that has not yet been activated this round. 
 
 ### Two action points
 
@@ -314,71 +297,59 @@ At the start of each of its turns, a creature’s action points (AP) are set to 
 
 A creature cannot save its action points for a later turn. If it does not spend them, it loses them. 
 
-Unless otherwise specified, a creature can take a particular free action only once per turn. Actions costing 1 AP that can only be performed once per turn are therefore written “●○” to indicate that they only cost 1 AP, but they cannot be performed twice in a round. 
+Unless otherwise specified, a creature can take a particular free action only once per turn. Actions costing 1 AP that can only be performed once per turn are therefore written “●○” to indicate that they only cost 1 AP, but cannot be performed twice in a round. 
 
 ### Group activation
 
-A player can activate a group of creatures in their warband at once. The creatures must have spent the whole game adjacent to at least one other creature in the group. They must all spend their action points on the same actions and in the same order, though the details can be different (e.g. if they all Stride, they can move in different directions; if they Strike, they can choose different targets or use different weapons). However, if the group breaks up, all the creatures in it must then be activated separately; the group cannot reform. 
+A player can activate a group of creatures in their party at once. The creatures must have spent the whole game adjacent to at least one other creature in the group. They must all spend their action points on the same actions and in the same order, though the details can be different (e.g. if they all Stride, they can move in different directions; if they Strike, they can choose different targets or use different weapons). If the group breaks up, all the creatures in it must then be activated separately; the group cannot reform. 
 
 ### End of turn
 
-At the end of a creature’s turn, if it is suffering from persistent damage it takes that much damage. Its persistent damage is then reduced by 5 (or removed altogether if it is already at 5). 
+At the end of a creature’s turn, if it is suffering from persistent damage it takes that much damage. Then roll 1d6. On a 4 or higher, it loses that persistent damage effect. Otherwise, the persistent damage effect remains. 
 
 The creature then loses all conditions it is experiencing. 
-
-## Universal actions
-
-The following are actions that any creature can take, unless otherwise specified. 
-
-**Crawl** ● Move 1 square while prone.
-
-**Drop Prone** ● Become prone.
-
-**Escape** ● Remove one condition currently affecting the creature.
-
-**Grapple** ● Choose an adjacent target. Make a Fight roll. They make a Fortitude save (Power equal to the Fight roll result). The target can’t be more than one size larger than the creature. On a failure, it is grabbed.
-
-**Interact** ● Ready an item, open a door, manipulate an item or claim an objective.
-
-**Leap** ● The creature jumps over one square or over a one-square wide gap. 
-
-**Long Jump** ●● The creature moves up to their Speed in squares, then makes an Athletics skill check. Divide the result by 4 (round down): that is how many squares they jump over or how wide a gap they can jump over. If that is not enough, they fall. 
-
-**Ready** ●● Your turn ends. Before your next turn, you can take a free action or 1-AP action as a reaction, at any time. 
-
-**Shove** ● Choose an adjacent target. Make a Fight roll. They make a Fortitude save (Power equal to the Fight roll result). The target can’t be more than one size larger than the creature. On a failure, it is pushed 1 square. 
-
-**Stand** ● The creature stands up from prone. If a creature is already in the standing creature’s space, either the standing creature or the original creature move to the nearest empty space (original creature’s choice). 
-
-**Step** ● The creature moves 1 square. This movement does not trigger reactions.
-
-**Stride** ● The creature moves up to their Speed in squares.
-
-**Strike** ● Make an attack with a melee or ranged weapon. Additional attacks are subject to the multiple attack penalty. 
-
-**Trip** ● Choose an adjacent target. Make a Fight roll. They make a Reflex save (Power equal to the Fight roll result). The target can’t be more than one size larger than the creature. On a failure, it falls prone. 
 
 ## Reactions
 
 Outside its turn, a creature can take a reaction. A creature can take at most one reaction until it next activates. 
 
-The following are reactions that are commonly available. They must be listed on a creature card to be used by that creature. 
+## Universal actions
 
-### Common reactions
+The following are actions that any creature can take, unless otherwise specified. “You” refers to the creature taking the action. 
 
-**Attack of Opportunity** ↻ If a creature within your reach casts a spell, moves out of reach of your attacks or makes a ranged attack: Make a melee Strike against the triggering creature.
+**Crawl** ● Move 1 square while prone.
 
-**Retributive Strike** ↻ If an enemy within 3 squares of you does damage to an ally within 3 squares of you: Reduce the damage taken by 2 + your level. If the enemy is within reach, make a melee Strike against the triggering creature. 
+**Drop Prone** ● Become prone.
 
-**Ferocity** ↻ If you would be reduced to 0 HP or below: Roll 1d6. On 4–6, set HP to 1 instead.
+**Escape** ● Choose a condition currently affecting you. Roll 1d6. On 4 to 6, the condition ends immediately. 
 
-**Shield Block** ↻ If you take slashing, piercing or bludgeoning damage: Reduce damage by the specified amount. 
+**Grapple** ● Choose an adjacent target no more than one size larger than you. Make a Fight roll. They make a Fortitude save (Power equal to the Fight roll result). On a failure, it is grabbed.
+
+**Interact** ● Ready an item, open a door, manipulate an item or claim an objective.
+
+**Leap** ● Jump over 1 square or over a one-square gap. 
+
+**Long Jump** ●● Stride, then make an Athletics skill check. Divide the result by 4 (round down): that is how many squares you jump over or how wide a gap you can jump. If that is not enough, you fall.  
+
+**Ready** ●● Your turn ends. Before your next turn, you can take a free action or 1-AP action as a reaction, at any time. 
+
+**Shove** ● Choose an adjacent target no more than one size larger than you. Make a Fight roll. They make a Fortitude save (Power equal to the Fight roll result). On a failure, it is pushed 1 square. 
+
+**Stand** ● Stand up from prone. If a creature is already in your space, either you or them move to the nearest empty space (their choice). 
+
+**Step** ● Move 1 square. This movement does not trigger reactions.
+
+**Stride** ● Moves up to your Speed in squares.
+
+**Strike** ● Make an attack with a melee or ranged weapon. 
+
+**Trip** ● Choose an adjacent target no more than one size larger than you. Make a Fight roll. They make a Reflex save (Power equal to the Fight roll result). On a failure, it falls prone. 
 
 # Movement and positioning
 
 When a creature Strides or Steps (or takes another action that allows them to move), they move a number of squares, as chosen by their player. They cannot move more than their Speed (if Striding) or more than 1 square (if Stepping). They can move fewer squares than they are entitled to. 
 
-Creatures cannot move through solid terrain (described below) or through the spaces of enemy creatures, and they cannot end their movement on spaces occupied by allied creatures. 
+Creatures cannot move through solid terrain (described below) or through the spaces of enemy creatures, and they cannot end their movement on spaces occupied by allied creatures.
 
 Some movement, like moving through difficult terrain or moving diagonally, costs more movement. If a creature Strides or Steps two or more times consecutively, they add up all the available movement for the purpose of these calculations. 
 
@@ -386,15 +357,15 @@ For example, a creature with Speed 5 who Strides twice can cross five squares of
 
 ### Diagonal movement
 
-Because moving diagonally covers more ground, count that movement differently. The first square of diagonal movement a creature makes in a turn counts as 1 square, but the second counts as 2 squares, alternating between the two thereafter. For example, as a creature moves across 4 squares diagonally, count 1, then 2, then 1, and then 2, for a total of 6. A creature’s total diagonal movement is tracked across all of their movement during their turn, but resets at the end of their turn.
+Because moving diagonally covers more ground, count that movement differently. The first square of diagonal movement a creature makes in a turn counts as 1 square, but the second counts as 2 squares, alternating between the two thereafter. For example, as a creature moves across 4 squares diagonally, count 1, then 2, then 1, and then 2, for a total of 6. A creature’s total diagonal movement is tracked across all of their movement during their turn.
 
 A creature can move diagonally past an enemy creature’s space – this does not count as passing through their space – and past difficult terrain. 
 
-A creature cannot move diagonally past solid terrain, since it represents a hard corner. They must move around it. 
+A creature cannot move diagonally past solid terrain, since it represents a hard corner. 
 
 ### Unwilling movement
 
-A creature can be pulled, pushed or shunted. Move them that number of squares. They cannot enter squares occupied by other creatures (allies or enemies). A push must move the creature further away from the attacker or point of origin with each square moved; a pull must move the creature closer to the attacker or point of origin with each square moved. A shunt can move them closer or farther, or no closer or farther.
+A creature can be pulled, pushed or shunted. The attacker moves the target up to the specified number of squares. This cannot move the target into squares occupied by other creatures (allies or enemies). A push must move the creature further away from the attacker or point of origin with each square moved; a pull must move the creature closer to the attacker or point of origin with each square moved. A shunted creature can be moved anywhere. 
 
 ### Movement modes
 
@@ -438,43 +409,45 @@ A creature falls if there is no rope, ladder or the like by which to descend a s
 
 ### Narrow spaces and tight gaps
 
-A creature can cross a space narrower than their own space. If it has a sheer drop on one or both sides, they must make an Acrobatics check (Power 15) once per action. If they fail, they lose their movement. If they critically fail, they fall. While on a narrow space, a creature is off-guard. Each time a creature is hit by an attack or fails a save, they must make an Acrobatics check (use the attacker’s Power) or fall. 
+A creature can cross a space narrower than their own space if it has a void on one or both sides. Narrow spaces count as uneven terrain, but if a creature falls prone on a narrow space, they roll 1d6. On a 1 to 3, they fall into the void. 
 
 A creature can squeeze through a space half its base width or wider, but treats every square as difficult terrain. 
 
 # Terrain
 
-Pieces of terrain represent anything from forests, cliffs, giant skeletons, castle ruins or fields of poisonous mushrooms to rooms in a building or dungeon. Each square in a piece of terrain is either open ground (a flat space with no special features) or has one or more terrain traits, like “concealing” for a cloud of smoke or “encumbering” for sticky spiderwebs. 
+Pieces of terrain represent anything from forests, cliffs, giant skeletons, castle ruins or fields of poisonous mushrooms to rooms in a building or dungeon. Each square in a piece of terrain is either open ground (a flat space with no special features) or has one or more terrain traits, like a “concealing” cloud of smoke or “encumbering” sticky spiderwebs. 
 
-A terrain piece can all have the same terrain trait (every square in the piece is filled with mushrooms, making it difficult terrain, for example) or different squares in the piece can have different traits (a ruin might have stone walls with the solid trait; piles of rubble with the difficult trait; and a flagstone floor which is open ground). 
+A terrain piece can all have the same terrain trait (every square in the piece is filled with mushrooms, making it difficult terrain, for example) or different squares in the piece can have different traits (a ruin might have stone walls with the solid trait; piles of rubble with the difficult trait; and a flagstone floor which is open ground).  
 
-A square can have one or more traits attached. For example, vegetation is obstructing difficult terrain. The cobwebs of giant spiders are encumbering difficult terrain. Fog or mist is concealing. Pitch darkness is opaque. Walls are solid terrain. 
+A square can have one or more traits attached. For example, vegetation is obstructing difficult terrain. 
 
 As well as filling squares, terrain can run along the border between squares. For example, a fence (difficult, obstructing) may run between two squares. Creatures can stand in the squares on either side of the fence. 
 
 ## Terrain traits
 
-* ☁ **Concealing:** Grants concealment to creatures within it. A creature ignores the square(s) of concealing terrain it is standing on when determining concealment (whether as the attacker or defender).
+☁ **Concealing:** Grants concealment to creatures within it. A creature ignores the square(s) of concealing terrain it is standing on when determining concealment (whether as the attacker or defender).
 
-* 〜 **Deep water:** Deep water can be traversed using movement, but at half speed. While swimming, a creature is off-guard. Shallow water is just a variety of difficult terrain. 
+〜 **Deep water:** Deep water can be traversed using movement, but at half speed. While swimming, a creature is off-guard. Shallow water is just a variety of difficult terrain. 
 
-* △ **Difficult:** It costs one extra square to enter each square of difficult terrain, or to cross difficult terrain between squares. 
+△ **Difficult:** It costs one extra square to enter each square of difficult terrain, or to cross difficult terrain between squares. 
 
-* ▭ **Door:** An adjacent creature can open or close a door by Interacting. While closed, doors are solid terrain. 
+▭ **Door:** An adjacent creature can open or close a door by Interacting. While closed, doors are solid terrain. 
 
-* ➲ **Directional:** The terrain pushes creatures in a particular direction. Moving in any other direction is difficult terrain. At the end of each round, all creatures on the directional terrain are moved 2 squares in the set direction. 
+➲ **Directional:** The terrain pushes creatures in a particular direction. Moving in any other direction is difficult terrain. At the end of each round, all creatures on the directional terrain are moved 2 squares in the set direction. 
 
-* 🕸 **Encumbering:** If a creature enters encumbering terrain or ends their turn on it, they are encumbered.
+🕸 **Encumbering:** If a creature enters encumbering terrain or ends their turn on it, they are encumbered.
 
-* ☠ **Hazardous:** When a creature enters a hazard, they take 5 damage. At the end of a creature’s turn, they take 5 damage if they are on a hazard. Damage type depends on the hazard (piercing for a pit of spikes, fire for a fire pit, acid for a pool of acid, etc).
+☠ **Hazardous:** When a creature enters a hazard, they take 5 damage. At the end of a creature’s turn, they take 5 damage if they are on a hazard. Damage type depends on the hazard (piercing for a pit of spikes, fire for a fire pit, acid for a pool of acid, etc).
 
-* ♣ **Obstructing:** Grants cover. A creature ignores the square(s) of obstructing terrain it is standing on when determining cover (whether as the attacker or defender). 
+♣ **Obstructing:** Grants cover. A creature ignores the square(s) of obstructing terrain it is standing on when determining cover (whether as the attacker or defender). 
 
-* ▦ **Opaque:** Blocks line of sight. A creature ignores the square(s) of opaque terrain it is standing on when determining line of sight (whether as the attacker or defender).
+▦ **Opaque:** Blocks line of sight. A creature ignores the square(s) of opaque terrain it is standing on when determining line of sight (whether as the attacker or defender).
 
-* ■ **Solid:** Solid terrain blocks movement, line of sight and areas of effect.
+■ **Solid:** Solid terrain blocks movement, line of sight and areas of effect.
 
-* ⨂ **Teleportation circle:** All Teleportation Circles are adjacent to all other Teleportation Circles on the map. 
+⨂ **Teleportation circle:** All Teleportation Circles are adjacent to all other Teleportation Circles on the map. 
+
+**/ Uneven:** A creature entering uneven ground or beginning a movement while on uneven ground must make an Acrobatics check (Power 15). If they fail, they lose their movement. If they critically fail, they fall prone. While on uneven ground, a creature is off-guard. Each time a creature is hit by an attack or fails a save, they must make an Acrobatics check (use the attacker’s Power) or fall prone.
 
 ## Terrain types
 
@@ -484,16 +457,18 @@ For example, in the caldera of a volcano the difficult terrain may be rubble, th
 
 Creatures may ignore some types of terrain but not others, for example in PF2E red dragons can see through smoke, winter hags can see through snowfall and some druids can move freely through undergrowth and vines. 
 
-| **Terrain traits**         | **Terrain type**                               |
-| -------------------------- | ---------------------------------------------- |
-| **Concealing**             | Smoke, snowfall, dim light.                    |
-| **Difficult**              | Rubble, mud, ice.                              |
-| **Difficult, obstructing** | Fence, low wall, undergrowth, curtain.         |
-| **Directional**            | Buffeting winds, river current, conveyor belt. |
-| **Encumbering, difficult** | Cobwebs, vines, quicksand.                     |
-| **Hazardous**              | Gouts of flame, superheated steam.             |
-| **Hazardous, difficult**   | Magma, pool of acid, stone spikes.             |
-| **Opaque**                 | Darkness.                                      |
+| **Terrain  traits**         | **Terrain  type**                       |
+| --------------------------- | --------------------------------------- |
+| **Concealing**              | Fog, mist, smoke, snowfall, dim  light. |
+| **Difficult**               | Rubble, mud, ice.                       |
+| **Difficult,  obstructing** | Fence, low wall, undergrowth,  curtain. |
+| **Directional**             | Winds, river current, conveyor belt.    |
+| **Encumbering,  difficult** | Cobwebs, vines, quicksand.              |
+| **Hazardous**               | Gouts of flame, superheated steam.      |
+| **Hazardous,  difficult**   | Magma, pool of acid, stone  spikes.     |
+| **Opaque**                  | Darkness.                               |
+| **Solid**                   | Wall                                    |
+| **Uneven**                  | Slippery ice, slime.                    |
 
 # Attacks and powers
 
@@ -505,13 +480,9 @@ When a creature makes a strike, they make a Fight roll (roll 1d20 and add their 
 
 Compares the result of the Fight roll to the target’s Armor. If the Fight roll equals or exceeds the Armor, the strike hits. Otherwise, it misses.
 
-If the Fight roll is a natural 20 (the die result is 20, ignoring modifiers) or the result exceeds the Armor by 10 or more (a result of 27 or more against Armor 17, for example), it is a critical hit. It hits and does double damage.
+If the Fight roll is a natural 20 (the die shows 20, ignoring modifiers) or the result exceeds the Armor by 10 or more (like a result of 27 or more against Armor 17), it is a critical hit. It hits and does double damage.
 
-Some offensive spells involve strikes. Others are powers (described below).
-
-#### Ranged attack in melee penalty
-
-A creature that is within an enemy’s reach suffers a -2 penalty to their Fight roll with ranged strikes. 
+Some offensive spells involve strikes. 
 
 #### Multiple attack penalty
 
@@ -519,11 +490,15 @@ After a creature concludes an action that included a Fight roll, their subsequen
 
 For example, a creature takes the Multiattack action and makes two strikes. After both strikes are resolved, it takes the Strike action and makes one strike. *That* strike suffers a -5 penalty. Then it takes the Shove action. *That* Fight roll suffers a -10 penalty. 
 
+#### Ranged attack in melee penalty
+
+A creature that is within an enemy’s reach suffers a -2 penalty to their Fight roll with ranged strikes. 
+
 ## Using a power
 
-When a creature uses a power that includes a saving throw (including most offensive spells), each target rolls a saving throw (rolls 1d20 and adds their Fortitude, Reflex or Will) and compares the result to the caster’s Power. If the saving throw equals or exceeds the Power, the power is negated or has a diminished effect. If the saving throw is less than the Power, the power succeeds and has the full effect. 
+An attack power is any power that includes a saving throw, including some spells. When a creature uses an attack power, each target rolls a saving throw (rolls 1d20 and adds their Fortitude, Reflex or Will) and compares the result to the caster’s Power. If the result equals or exceeds the Power, the power is negated or has a diminished effect. If the result is less than the Power, the power succeeds and has the full effect. 
 
-If the saving throw is a natural 1 (the die shows a 1, before modifiers) or it is below the Power by 10 or more (a result of 7 or less against Power 17, for example), it is a critical failure. The target takes double damage from the power. 
+If the saving throw is a natural 1 (the die shows a 1, before modifiers) or it is below the Power by 10 or more (like a result of 7 or less against Power 17), it is a critical failure. The target takes double damage. 
 
 ### Saving throw types
 
@@ -531,25 +506,25 @@ If the saving throw is a natural 1 (the die shows a 1, before modifiers) or it i
 
 **[Saving throw] half:** If a saving throw is listed as “Will half”, or the like, it means on a successful saving throw the power does half damage, and on a critical success (the saving throw is above the Power by 10 or more), it does no damage. 
 
-Round damage down to the nearest 1 (for damage values after halving of 9 or less) or down to the nearest 5 (for damage values after halving of 10 or more). 
+Round damage down to the nearest 1 (for damage after halving of 9 or less) or down to the nearest 5 (for damage after halving of 10 or more). 
 
 ## Targeting 
 
 To target a creature, an attacker needs (a) the target to be within range of the attack, (b) line of sight to the target and (c) line of effect to the target. 
 
-To target a point of origin for an area of effect at range (for example, a burst 2 within range 10), an attacker needs (a) line of sight to the point of origin and (b) line of effect to the point of origin. The area of effect extends to its full extent, unless intercepted by solid terrain. 
+To target a point of origin for an area of effect at range (for example, a burst 2 within range 10), an attacker needs (a) line of sight to the point of origin and (b) line of effect to the point of origin. The area of effect extends to its full extent, except where blocked by solid terrain. 
 
 ### Range
 
 When measuring distances in squares, count the squares from the first square adjacent to the attacker to the square that includes the target (with diagonals alternating between costing 1 square and 2 squares). If the total is less than or equal to the range, the target is within range. 
 
-Ranged weapons often have two ranges listed, for example “Ranged 12/24”. The first is the short range, at which the weapon can be used without penalty. The second is the long range; attacks at this range suffer a -2 penalty. 
+Ranged strikes may have short and long ranges listed, for example “Ranged 12/24”. Attacks beyond the short range suffer a -2 penalty. 
 
 ### Line of sight 
 
 Melee and Ranged attacks require the attacker to have line of sight to the target – in other words, to be able to see the target. 
 
-If the attacking player can draw a line between any point on the space their attacking figure occupies and any point on the space the target occupies, without it passing through solid or opaque terrain, the attacker has line of sight. 
+If the attacking player can draw a line between any point on the space their attacking creature occupies and any point on the space the target occupies, without it passing through solid or opaque terrain, the attacker has line of sight. 
 
 Area effects ignore opaque terrain: they have line of sight if they do not pass through solid terrain.
 
@@ -562,18 +537,17 @@ The attacking player chooses the point in the attacking creature's space from wh
 Make a cover check for:
 
 * Each piece of obstructing, solid or opaque terrain that the line passes through.
+* Each creature of the same size or smaller than both attacker and defender the line passes through.
 
-* Each figure of the same size or smaller than both attacker and defender that the line passes through.
+In order from closest to the attacker to farthest from the attacker. If terrain is in the same square as a creature, roll for the terrain first. 
 
-In order from closest to the attacker to farthest from the attacker. If terrain is in the same square as a figure, roll for the terrain first. 
+A cover check involves rolling 1d6. The first time the attacker rolls a 1, the attack targets the terrain or creature instead of the original target. If the thing in the way was already a target of the attack, they are only targeted once (so a soldier who provides cover against a dragon’s fiery breath is only affected once by that breath, even if they end up saving others behind). 
 
-A cover check involves rolling 1d6. The first time the attacker rolls a 1, the attack targets the terrain or figure instead of the original target. If the thing in the way was already a target of the attack, they are only targeted once (so a soldier who provides cover against a dragon’s fiery breath is only affected once by that breath, even if they end up saving others behind them from being targeted). 
+If no 1s are rolled, the original target remains. 
 
-If no 1s are rolled, the original target remains the target. 
+**Adjacent cover:** Defenders do not benefit from and attackers do not suffer from cover in their space. Attackers do not suffer from cover of one square or less in width that they are adjacent to (for example, archers can shoot out of arrow slits and duelists can swing swords over fences and low walls without penalty). 
 
-**Adjacent cover:** Defenders do not benefit from and attackers do not suffer from cover in their space. Attackers do not suffer from cover of less than one square in width that they are adjacent to (for example, archers can shoot out of arrow slits and duelists can swing swords over fences and low walls without penalty). 
-
-**Larger creatures:** In the case of creatures that occupy multiple squares, the player who controls the attacking figure chooses which square to draw from of those the attacking figure occupies. 
+**Larger creatures:** In the case of creatures that occupy multiple squares, the player who controls the attacking creature chooses which square to draw from of those the attacking creature occupies. 
 
 ### Concealment
 
@@ -584,20 +558,17 @@ Concealment works like cover, except it only applies to strikes (attacks that ta
 Use the same line as for cover. Make a concealment check for: 
 
 * Each piece of concealing terrain that the line passes through.
-
-* The figure, if it is hidden or otherwise concealed by a spell or effect. 
+* The creature, if it is hidden or otherwise concealed by a spell or effect. 
 
 Make the checks in order from closest to the attacker to farthest to the attacker. 
 
-A concealment check involves rolling 1d6. The first time the attacker rolls a 1, the attack misses. 
+A concealment check involves rolling 1d6. If any concealment check results in a 1, the attack misses. 
 
-If no 1s are rolled, the original target remains the target. 
-
-**Larger creatures:** In the case of creatures that occupy multiple squares, the player who controls the attacking figure chooses which square to draw from of those the attacking figure occupies. 
+**Larger creatures:** In the case of creatures that occupy multiple squares, the player who controls the attacking creature chooses which square to draw from of those the attacking creature occupies. 
 
 ### Height
 
-Creatures are as high as they are wide (for example, a Large creature occupies 8 1-inch cubes: it is 2” wide by 2” long by 2” tall). Where elevation is an issue for determining line of sight, cover or concealment, draw the lines from points in these cubes rather than from ground level. This can mean figures of smaller sizes now grant cover or figures of larger sizes no longer grant cover depending on how the elevation changes their heights. 
+Creatures are as high as they are wide (for example, a Large creature occupies 8 1-inch cubes: it is 2” wide by 2” long by 2” tall). Where elevation is an issue for determining line of sight, cover or concealment, draw the lines from points in these cubes rather than from ground level. This can mean creatures of smaller sizes now grant cover or creatures of larger sizes no longer grant cover depending on how the elevation changes their heights. 
 
 ### Adjacency
 
@@ -611,13 +582,15 @@ Areas are measured in the same way as movement, but areas’ distances are never
 
 If any of a creature’s space is within the area of effect, the creature is affected (even if other parts of their space are outside of the area of effect). 
 
-**Emanations:** An emanation power is measured from the sides of the origin space, usually the user’s own space. An emanation 1 power thus affects all adjacent squares to the user. 
+**Emanations:** An emanation is measured from the sides of the origin space, usually the user’s space. Emanation 1 affects all squares adjacent to the user. 
 
-**Bursts:** A burst power is measured from a single corner of a square within the range of the effect, spreading in all directions to a specified radius. 
+**Bursts:** A burst is measured from a single corner of a square within the range of the effect, spreading in all directions to a specified radius. 
 
-**Cones:** A cone power is measured from a single edge or single corner of the origin space, usually the user’s own space. It covers a quarter-circle of space. 
+**Cones:** A cone is measured from a single edge or single corner of the origin space, usually the user’s own space. It covers a quarter-circle of space. 
 
-**Lines:** A line power is measured in a straight line from a single corner of the origin space. 
+**Lines:** A line is measured in a straight line from a single corner of the origin space. 
+
+##### Figure: Areas of effect
 
 <img src="img/aoe.png" style="width: 700px;" />
 
@@ -645,15 +618,15 @@ Keep track of where each creature is eliminated. A creature on or adjacent to th
 
 ### Damage types
 
-There are 12 types of damage: Bludgeoning, piercing, slashing, acid, cold, fire, electricity, sonic, mental, poison, void and vitality. 
+There are 12 types of damage: bludgeoning, piercing, slashing, acid, electricity, cold, fire, sonic, mental, poison, vitality and void.
 
-Vitality damage only damages undead creatures and void damage does not damage undead or construct creatures.
+Vitality damage only damages undead and void damage does not damage undead or constructs.
 
 Damage can have two or more types, for example “5 fire and electricity damage”. 
 
 ### Temporary HP
 
-Creatures can acquire temporary HP, separate to their current HP and not limited by their maximum HP. When a creature takes damage, subtract it from their temporary HP first. 
+Creatures can acquire temporary HP, separate to their current HP and not limited by their maximum HP. When a creature takes damage, subtract it from temporary HP first. 
 
 Temporary HP does not stack; if a creature gets temporary HP from two sources, use the higher value. 
 
@@ -679,24 +652,22 @@ Persistent damage of the same type does not stack. Persistent damage of differen
 
 # Spells
 
-Spells are discrete magical effects. 
-
 Every creature that can cast spells is described as a caster of a particular tradition and rank. 
 
-The traditions are occult, arcane, divine and primal. These determine which spells the caster can learn, but have no other effect in game.
+The traditions are occult, arcane, divine and primal. These determine which spells the caster can learn.
 
-A caster’s rank describes how powerful the spells they cast are, and what the maximum rank of spell they can cast is. For example, a Caster Rank 7 can cast spells of up to rank 7. 
+A caster’s rank describes how powerful the spells they cast are, and the maximum rank of spell they can cast. A Caster Rank 7 can cast rank 7 and below spells. 
 
 ## Interpreting spells
 
-Spells are described as actions, with a particular action point cost. If multiple actions are described in the one spell, only one of them can be taken. For example, the *heal* spell reads
+Spells are magical actions. Like other actions, casting spells costs AP or a reaction. If multiple actions are described in the one spell, only one of them can be taken. For example, the *heal* spell reads
 
-● Melee: Heal 5 damage.  
- *Heighten:* Heal +5 damage per rank.  
-●● Ranged 6: Heal 10 damage.  
-*Heighten:* Heal +10 damage per rank.
+● Melee: 5 void damage (Fortitude half).  
+●● Ranged 6: 5 void damage (Fortitude half).  
+●●● Burst 4: 5 void damage (Fortitude half).   
+*Heighten (+1; any of the three options):* +5 damage.
 
-That means that the caster can cast the spell by either spending 1 action point or 2. If they spend one action point, they heal 5 damage at melee range (usually, adjacent squares only). If they spend two action points, they can heal 10 damage at a range of 6 squares. A caster of higher rank can heal more damage (as described below). 
+The caster can get one of three effects, depending on how many AP they spend. “Heighten” means a caster of higher rank heals more damage. 
 
 If a spell is listed as a strike, then the caster makes a Fight roll and compares it to the target’s Armor. Only if the attack hits does the spell’s effect take place. Otherwise, a spell’s effect is automatic (though the target may avoid the effect, for example by making a saving throw that negates it). 
 
@@ -704,9 +675,7 @@ If a spell is listed as a strike, then the caster makes a Fight roll and compare
 
 Spells have a minimum rank, which is the lowest rank of caster that can cast them. 
 
-When a spell of a particular rank is cast by a caster of higher rank, it can have a more powerful or different effect. This is described under the spell’s “Heighten” entry. 
-
-Rank 0 spells are called cantrips, and can usually be cast any number of times (indicated with an infinity sign: ∞). Sometimes spells of higher ranks also be cast any number of times. 
+When a spell of a particular rank is cast by a caster of higher rank, it can have a more powerful or different effect. This is described under the spell’s “Heighten” entry. *Heighten (+1)* means apply that bonus once per rank it is heightened by. *Heighten (+2)* means apply that bonus once per two ranks it is heightened by (no effect if it is heightened just 1 rank). 
 
 ### Sustaining
 
@@ -714,23 +683,31 @@ A spell that has a sustain entry can be cast again on the caster’s next turn, 
 
 ### Prepared and spontaneous casters
 
-There are typically two types of caster: prepared casters and spontaneous casters. Prepared casters have a list of spells, each of which can be cast a certain number of times. Spontaneous casters can cast a certain number of spells of each rank, choosing from all applicable spells they know. 
+Prepared casters have a list of spells, each of which can be cast a certain number of times. 
 
-For example, the Kobold Sorcerer 1 is a spontaneous caster. They can cast three spells, choosing from *bane, fear* and *charm.* They could choose *bane* all three times. 
+Spontaneous casters can cast a certain number of spells, choosing from any applicable spell. 
 
-> 🄳🄳🄳 Bane, fear, harm; ∞ Acid splash, shield; 🄴: Glutton's jaws
+The Kobold Sorcerer 1 is a spontaneous caster. They can choose between *bane, fear* and *charm* and could choose *bane* all three times. 
+
+> 🄳🄳🄳 *Bane, fear, harm*
 
 The Kobold Druid 1 is a prepared caster. It can cast *heal* once and *magic weapon* once. 
 
-> 🄳 Heal, 🄳 Magic weapon (animal, beast, fungus, plant or dragon only); ∞ Ray of frost, tanglefoot; 🄴 Heal (animal or beast only)
+> 🄳 *Heal*, 🄳 *Magic weapon* 
 
-# Other rules
+# Hero points
 
-## Skill checks 
+A player can purchase up to three hero points for each of their creatures, paying the upgrade cost for that creature each time. 
 
-The rules will say when a creature needs to make a skill check. To do so, roll 1d20 and add the corresponding saving throw bonus. If they are not trained in the applicable skill, they suffer a -5 penalty. Compare the result to the specified Power for that skill check. If it is equal to or greater than the Power, the creature succeeds. 
+A creature can spend a hero point to reroll a Fight roll, saving throw or check that they have made, or to make a creature targeting them with an attack reroll their Fight roll. Either way, use the second result.
 
-Unless otherwise mentioned, mindless creatures can only make skill checks for skills they are trained in. The same is true for animals and beasts unless they are also humanoids, can cast spells or strike with a weapon. 
+A creature can spend a hero point just before making a recovery check. They pass that recovery check and all subsequent ones that they make in this encounter. 
+
+# Skill checks 
+
+When a creature makes a skill check, roll 1d20 and add the corresponding saving throw. If the creature is not trained in that skill, they suffer a -5 penalty. If the result is equal to or greater than the specified Power, the check succeeds. 
+
+Mindless creatures can only make skill checks for skills they are trained in. The same is true for animals and beasts unless they are also humanoids, can cast spells or strike with a weapon.  
 
 | **Skill**        | **Saving throw** | **Skill**       | **Saving throw** |
 | ---------------- | ---------------- | --------------- | ---------------- |
@@ -744,53 +721,25 @@ Unless otherwise mentioned, mindless creatures can only make skill checks for sk
 | **Lore**         | Will             | **Thievery**    | Reflex           |
 | **Medicine**     | Will             |                 |                  |
 
- 
+# Commanders, minions and mounts
 
-## Commanders, minions and mounts
+A commander is a creature that leads other creatures, called minions. The minions act on their commander’s turn (they can take actions in any order, including the commander taking an action, a minion taking an action, then the commander taking an action). 
 
-A commander is a creature that leads other creatures, called minions. The minions act on their commander’s turn (they can take actions in any order, including for example the commander taking an action, a minion taking an action, then the commander taking another action). 
-
-A minion receives 1 AP per turn. The commander can give up 1 AP to give one of its minions +1 AP for that turn. A commander with more than one minion can give up more than 1 AP, but must give each AP to a different minion. 
+A minion receives 1 AP per turn. The commander can give up 1 AP to give its minion +1 AP for that turn. A commander with more than one minion can give up more AP, but must give each AP to a different minion. 
 
 ### Mounts
 
 Some creatures can be mounted by other creatures. 
 
-When one creature mounts another, the mount becomes a minion and the rider its commander – the mount acts on its rider’s turn, and receives 1 AP per turn by default. If the rider dismounts, the mount goes back to normal.
+When a creature mounts another, the mount becomes a minion and the rider its commander: the mount acts on its rider’s turn, and receives 1 AP per turn. If the rider dismounts, the mount goes back to normal.
 
-There may be room for other creatures on a mount along with its commander. These passengers get AP as normal. 
+There may be room for other passengers. These passengers get AP as normal. 
 
-Commanders and passengers can make their attacks from any point on the mounted creature. Passengers must occupy a particular space, but can move about/change spaces any time with their own actions or whenever the mount Strides. In practice, this may limit passengers to reach or ranged attacks (for example if they are confined to a howdah on the back of a Huge beast like an elephant). 
+Commanders can make their attacks from any point on the mounted creature. Passengers must occupy a particular space, but can move about/change spaces any time with their own actions or whenever the mount Strides. This may limit passengers to reach or ranged attacks (for example if they are on a howdah on the back of a Huge elephant). 
 
-If a mount falls prone, its commander and any passengers dismount and are placed in unoccupied spaces around the mount. Make a Reflex save for each commander and passenger (against the mount’s Power): on a failure, they fall prone. If the mount is Huge or larger, the commander and passengers take falling damage as well if they failed their save.
+If a mount falls prone, its commander and passengers dismount and are placed in unoccupied spaces around the mount. Make a Reflex save for each commander and passenger (against the mount’s Power): on a failure, they fall prone. If the mount is Huge or larger, the commander and passengers take falling damage as well if they failed their save.
 
-## Hero points
-
-A player can purchase up to three hero points for each of their creatures, paying the upgrade cost for that creature each time. 
-
-A creature can spend a hero point to reroll a Fight roll, saving throw or check that they have made, or to make a creature targeting them with an attack reroll their Fight roll. Either way, use the second result.
-
-A creature can spend a hero point just before making a recovery check. They pass that recovery check and all subsequent ones that they make in this encounter. 
-
-## Common features
-
-**Aquatic Only:** This creature can only swim; it cannot move on land. 
-
-**Commander:** See “Commanders, minions and mounts” above. This entry will specify which creatures are the commander’s minions. If it says “Starts with X” (such as “Starts with Capybara Pet 12 minion”), it means that if that commander is part of a warband, then that minion is part of the warband too (at no additional points cost). 
-
-**Scent:** A creature with scent ignores the concealed status of creatures they are adjacent to and treats invisible creatures they are adjacent to as concealed instead. 
-
-**Swallow Whole ●** A creature of the listed size or smaller that is (a) grabbed and (b) within reach is swallowed (Reflex negates). When first swallowed and at the start of each of its turns, the swallowed creature takes the listed damage.
-
-**Trample ●●** The creature Strides up to its Speed and may move through the spaces of creatures of smaller size. Each time it attempts to move through a creature, that creature makes a Reflex save. On a success, the trampling creature’s movement ends. On a failure, the creature is knocked prone and takes the listed damage. If the trampling creature’s space overlaps with that of other creatures at the end of its movement, move the other creatures to the nearest unoccupied spaces. 
-
-**Truesight/See Invisibility:** A creature with truesight or see invisibility ignore the invisible and concealed statuses of creatures. 
-
-**Void Healing:** When the creature would heal from a spell, potion or other magical effect, it takes that amount as damage instead. When the creature would take necrotic damage, it takes no damage and heals that amount instead. 
-
-# Conditions and combat statuses
-
-## Conditions
+# Conditions 
 
 **Encumbered**: The creature suffers a -2 penalty to Speed and loses the Flight, Burrowing and Wall Climb modes. 
 
@@ -816,17 +765,17 @@ A creature can spend a hero point just before making a recovery check. They pass
 
 Some creature cards describe other conditions. These also end at the end of the target’s turn unless specified. 
 
-## Combat statuses
+# Combat statuses
 
 Combat statuses are circumstantial, sometimes beneficial, and do not typically go away on their own. 
 
-**Flanked:** When a creature has enemy creatures on opposite sides of it, and those creatures are not helpless, the creature is flanked. When a creature is flanked, it is off-guard against all attackers until it ceases to be flanked. 
+**Flanked:** When a creature has enemy creatures on opposite sides of it, and those creatures are not helpless, the creature is flanked. While a creature is flanked, it is off-guard against all attackers. 
 
 The target must be in reach of both flankers, and a line drawn from the center of one flanker’s space to the center of the other must pass through the target’s space. For example, if attacker 1 is in a given space, attacker 2 can be in a variety of other spaces to flank the target (T): 
 
 <img src="img/flanking.png" />
 
-**Helpless**: A creature that is dying is helpless. They cannot take actions (including reactions) or spend action points. When their turn begins, it ends immediately. The creature does not count as a creature for the purposes of affecting opponents (they can move through the helpless creature’s space, are not flanked by the helpless creature, etc). 
+**Helpless**: A creature that is dying is helpless. They cannot take actions (including reactions) or spend AP. When their turn begins, it ends immediately. The creature does not count as a creature for the purposes of affecting opponents (they can move through the helpless creature’s space, are not flanked by it, etc). 
 
 **Invisible:** The creature cannot be seen, which means attackers do not have line of sight to it. Area of effect attacks can still affect an invisible creature as normal, as can the attacks of those with the True Seeing or Blindsight features.
 
@@ -842,7 +791,37 @@ A swallowed creature can attack its swallower, who is off-guard against the atta
 
 When a creature escapes, place it in an unoccupied space adjacent to the swallower.
 
-# Game mode: Solo adventuring
+# Common features
+
+**Aquatic Only:** You cannot move on land, only swim. 
+
+**Commander:** This entry will specify which creatures are the commander’s minions. If it says “Starts with X” (such as “Starts with Wolf minion”), it means that if that commander is part of a party, then that minion is part of the party too (at no additional points cost).
+
+**Scent:** Ignore the concealed status of adjacent creatures and treat adjacent invisible creatures as concealed instead. 
+
+**Truesight/See Invisibility:** Ignore the invisible and concealed statuses of creatures. 
+
+**Void Healing:** When you would heal, you take that amount as damage instead. When you would take void damage, you heal that amount instead. 
+
+### Common actions 
+
+The following are actions that are commonly available (but not universally available). They must be listed on a creature card to be used by that creature. 
+
+**Swallow Whole ●** A creature of the listed size or smaller that is (a) grabbed and (b) within reach is swallowed (Reflex negates). When first swallowed and at the start of each of its turns, the swallowed creature takes the listed damage.
+
+**Trample ●●** The creature Strides up to its Speed and may move through the spaces of creatures of smaller size. Each time it attempts to move through a creature, that creature makes a Reflex save. On a success, the trampling creature’s movement ends. On a failure, the creature is knocked prone and takes the listed damage. If the trampling creature’s space overlaps with that of other creatures at the end of its movement, move the other creatures to the nearest unoccupied spaces. 
+
+### Common reactions
+
+**Reactive Strike (also called Attack of Opportunity)** ↻ If a creature within your reach casts a spell, moves out of reach of your attacks or makes a ranged attack: Make a melee Strike against the triggering creature.
+
+**Retributive Strike** ↻ If an enemy within 3 squares of you does damage to an ally within 3 squares of you: Reduce the damage taken by 2 + your level. If the enemy is within reach, make a melee Strike against the triggering creature. 
+
+**Ferocity** ↻ If you would be reduced to 0 HP or below: Roll 1d6. On 4–6, set HP to 1 instead.
+
+**Shield Block** ↻ If you take slashing, piercing or bludgeoning damage: Reduce damage by the specified amount. 
+
+# Game mode: Solo adventuring 
 
 In this variant, dice rolls determine how enemy creatures act, allowing a player to run an adventure or campaign by themselves.
 
@@ -856,7 +835,7 @@ Each adventurer that acts early gets 2 AP on its turn. If late, it gets 3 AP on 
 
 Monsters can act “super-early”, typically only getting 1 AP or taking a special defensive action. 
 
-Early adventurers act before early monsters, but after super-early monsters. Late adventurers act before late monsters. 
+Early adventurers act before early monsters, but after super-early monsters. Late adventurers act before late monsters. Allies of the adventurers act during the adventurers' turns, in the order the adventurers choose, even if those allies follow AI gambits.
 
 Within each phase, the player decides which creature acts first (for example, the player chooses which of their early adventurers takes their turn first; they also choose which early monster takes its turn first.)
 
@@ -880,19 +859,13 @@ An arrow means after taking the original action, the monster takes the subsequen
 
 Find out the monster’s “preferred” target, following this order until there is no ambiguity about who the monster targets:
 
-1. Enemies within range of their attack, or able to be within range with the movement the monster has available.
-
-2. (When using an area attack) Maximising the number of enemies targeted. 
-
-3. Enemies listed as their “preferred” enemy.
-
-4. Enemies that are nearest.
-
-5. Enemies that are yet to act.
-
-6. Enemies with the lowest current HP.
-
-7. Enemies with the lowest Armor.
+1.    Enemies within range of their attack, or able to be within range with the movement the monster has available.
+2.    (When using an area attack or attack with multiple targets) Maximising the number of enemies targeted. 
+3.    Enemies listed as their “preferred” enemy.
+4.    Enemies that are nearest.
+5.    Enemies that are yet to act.
+6.    Enemies with the lowest current HP.
+7.    Enemies with the lowest Armor.
 
 Monsters who have no enemies in range move towards whichever enemy they can get in range of with their movement, again preferring enemies based on the order given above. 
 
@@ -910,6 +883,12 @@ Monsters do not target helpless creatures.
 
 **Stride:** The monster moves so its subsequent actions are most effective (into range, into reach, out of melee reach of enemies if it is making ranged attacks) against its preferred target. If it has no applicable subsequent actions, it moves into melee reach of its preferred target. 
 
+### Adjudicating when AP are lost
+
+Creatures following gambits do not gain or spend AP; they have a fixed set of actions that they take on their turn. This leaves the player(s) to adjudicate what happens when the game rules refer to AP, for example if a creature is slowed (losing 1 AP) or if the creature gets an opportunity to spend 1 AP for an effect. 
+
+In general, a slowed creature should lose the last action from its programmed actions for the turn. Similarly, a creature that gets the opportunity to spend 1 AP should generally instead lose its last programmed action (if it has one) for the turn to "pay for" that effect. However, in either of these cases, if that means the creature doesn't get to use a big 2-AP or 3-AP action, consider dropping a different action from the ones the creature has programmed instead. 
+
 ### Example
 
 Here are the gambits for the taxidermic dog. On a roll of 1, it takes no actions but becomes resistant to all damage. On a roll of 4, it acts in the early monster phase, by moving (preferring an enemy already adjacent to an ally even if it is already adjacent to another enemy) and then biting with its jaws. 
@@ -920,108 +899,6 @@ Here are the gambits for the taxidermic dog. On a roll of 1, it takes no actions
 > ⚁⚂ Ⅱ Jaws > Reposition  
 > ⚃⚄ Ⅱ Reposition > Jaws  
 > ⚅ Ⅲ Stride > Jaws > Jaws
-
-## Scenario: Basement Crawl
-
-The player controls five kobolds (and their pet cat) in two encounters, with the dice determining how the enemies respond. 
-
-Print the hero, monster and spell/item cards. 
-
-### Adventurers
-
-* Kobold Bard 1
-
-* Kobold Druid 1 (Cat Companion 1; *scroll of burning hands*)
-
-* Kobold Fighter 1 (*minor healing potion*)
-
-* Kobold Sorcerer 1 (*scroll of* *ray of enfeeblement*)
-
-* Kobold Rogue 1
-
-### Encounter 1
-
-**Set up:** A basement on a 12x12 board.
-
-Place: 
-
-* 4 precarious piles (2x2 each) – obstructing terrain
-
-* 4 shelves (2x1 each) – solid terrain 
-
-* 1 fungus patch (made from five 2x2 patches of difficult terrain; the fungus leshy treats the fungus patch as normal terain)
-
-* 2 beds (1x2 each)
-
-* 2 flash beetles, one on each bed
-
-* 1 fungus leshy, on the fungus patch
-
-* 1 stone door and 1 wooden door, in opposite corners
-
-Deploy adventurers up to 4 squares from the stone door.
-
-Set aside: 
-
-* 3 taxidermic dogs 
-
-* 1 briar doll
-
-* 4 flash beetles
-
-* 1 animated rocking horse
-
-**Start of Each Round (Including Round 1):** Roll 1d6 for each bed. On 4–6, place a new flash beetle on it. 
-
-**Start of Round 4:** Place the three taxidermic dogs adjacent to the wooden door. 
-
-**Start of Round 10:** Place the briar doll and animated rocking horse adjacent to the wooden door. 
-
-**When the fungus leshy is defeated:** Flash beetles stop spawning.  
-
-**The briar doll and rocking horse are defeated:** Scenario ends; all adventurers gain +1 Advance if you are using the campaign play rules. 
-
-#### Special rules
-
-**Soothe Beetle** ●● Target a beetle within 6 squares. If you succeed on a Nature check (Power 14) the target beetle won’t take actions until attacked or harmed. 
-
-**Precarious pile:** A creature can search (Interact, 1 AP) the pile with a Thievery check (Power 14). On a success, the pile is destroyed and roll 1d4. The first time that the number is equal to or less than the number of destroyed piles, the creature finds ablative armor plating. On a failure, the pile topples.
-
-A creature that moves through the pile must make an Athletics check (Power 14) to climb over it. On a failure, the pile topples.
-
-If the pile topples, creatures on and adjacent to the pile take 10 bludgeoning damage (Reflex half, Power 14) and the pile is removed from play.
-
-**Bed:** Difficult terrain for Medium and larger creatures; cover for Small and smaller creatures.
-
-**Fungus Patch:** A creature can search (Interact, 1 AP) the pile with Survival (Power 16). On a success, they find a healing potion (1–3 on 1d6) or a basic poison (4–6 on 1d6). Each item can only be found once; on the next success, the remaining item is found.
-
-### Encounter 2
-
-**Set up:** A garden on a 12x12 board.
-
-* 4 hedges (each 1x4) – barriers 
-
-* 4 boulders (1x1) – solid terrain 
-
-* 3 holes (1x1) – difficult terrain
-
-* 1 fountain (2x2) – difficult terrain 
-
-* 1 shed (2x2) somewhere at the top of the board – solid terrain
-
-* 1 faerie dragon
-
-Deploy the adventurers in the two bottom rows. 
-
-Set aside: 
-
-* 3 reefclaws
-
-**Start of Rounds 2, 3 and 4:** Place a reefclaw adjacent to a hole (use a 1d3 to determine which).
-
-**Shed:** A creature can search (Interact, 1 AP) the shed using the Crafting skill (Power 16). On a success, they find a *fiery* hand weapon. 
-
-**When all enemies are defeated or the hero carrying the \*fiery\* weapon from the shed reach the bottom edge of the map:** Scenario ends; all adventurers gain +1 Advance if you are using the campaign play rules.
 
 # Game mode: Wargaming
 
@@ -1037,13 +914,13 @@ Two example factions are provided: the Doughty Kingdom and the Redolent Halls.
 
 ## Deployment zones
 
-When playing with these alternative deployment zones (provided in a separate PDF), players alternate deploying a creature from their warbands until all creatures have been placed.
+When playing with these alternative deployment zones (provided in a separate PDF), players alternate deploying a creature from their parties until all creatures have been placed.
 
 ## Victory conditions
 
 If you are playing with one of these alternative victory conditions (provided in a separate PDF), do not place objectives unless specified. 
 
-Where these rules refer to a warband being “Broken”, it means three-quarters of the warband by points cost is helpless or has been eliminated. 
+Where these rules refer to a party being “Broken”, it means three-quarters of the party by points cost is helpless or has been eliminated. 
 
 If a player’s Victory Points exceed the other player’s by 5 or more, that player has won a major victory. Otherwise, they have won a minor victory. 
 
@@ -1077,38 +954,178 @@ Measure lines as a line of no thickness of the length specified.
 
 This game mode is for balanced, competitive play. 
 
-## Building a warband
+## Building a party
 
-In matched play, there are two other options for building a warband: 
+In matched play, there are two other options for building a party: 
 
-1. **Balanced, Limited Play:** As unlimited play, but each player selects an alignment, and then selects creatures of that alignment  or adjacent alignments (see below).
-2. **Random Box  Recruitment:** Each player buys a couple of  boxes of random pre-painted miniatures, and then selects creatures from  their assortment with total point costs equal to or below 200 (or other agreed  number). 
+1. **Balanced, Limited Play:** As unlimited play, but each player selects an alignment, and then selects creatures of that alignment or adjacent alignments (see below).
+2. **Random Box Recruitment:** Each player buys a couple of boxes of random pre-painted miniatures, and then selects creatures from their assortment with total point costs equal to or below 200 (or other agreed number). 
 
 ### Alignments
 
-There are nine factions in *Path 2 Victory:* the nine alignments. Each player chooses an alignment for their warband, but can also recruit those of “adjacent” alignments and True Neutral creatures. For example, a Lawful Evil warband can also include Lawful Neutral, Neutral Evil and True Neutral creatures. A Neutral Good warband can also include Lawful Good, Chaotic Good and True Neutral creatures. A True Neutral warband can also include Neutral Good, Lawful Neutral, Chaotic Neutral and Neutral Evil creatures. 
+There are nine factions in *Path 2 Victory:* the nine alignments. Each player chooses an alignment for their party, but can also recruit those of “adjacent” alignments and True Neutral creatures. For example, a Lawful Evil party can also include Lawful Neutral, Neutral Evil and True Neutral creatures. 
+
+<img src="img/factions.png" />
 
 ## Terrain tiles
 
-Terrain tiles are 8-square by 5-square tiles that can be laid on a grid. They can represent points of interest, natural features or rooms in a dungeon, and are made up of the standard *Path 2 Victory* terrain features (difficult terrain, obstructing terrain, etc).
+Terrain tiles are standardized 8-square by 5-square tiles that can be laid on a grid. They create a fair, consistent play experience. 
 
-Each player chooses and places three tiles in a small game, four in a medium game and eight in a large game. Place them on a grid of the appropriate dimensions for the size of the game. 
+Each player chooses and places three tiles in a small game, four in a medium game and eight in a large game. 
 
 Typically, between the tiles is open ground. Alternative scenarios could have void, shallow water, deep water, rubble, or solid terrain between the tiles, or have the tiles represent raised sections (with perhaps a 2-square drop to the ground below). However, different tile placement rules might be needed to have fair, balanced games.
 
 Example terrain tiles are provided in a separate PDF. 
 
+# Appendix: Campaign play
+
+The following rules can be used to play with the same creatures over many scenarios. 
+
+## Recovering
+
+After a scenario, all creatures heal all damage and lose all conditions. All spell effects end. 
+
+All features (including spells) that are usable once per encounter (🄴) are usable again. The scenario will specify if all features that are usable once per day (🄳) are usable again too. As a rule of thumb, creatures should recover their daily features after every third scenario. 
+
+## Injuries
+
+Roll 1d6 for each creature that was eliminated in the scenario. 
+
+##### Table: Eliminated creatures
+
+| **D6** | **Outcome**   | **Effect**                                         |
+| ------ | ------------- | -------------------------------------------------- |
+| 1–2    | Out of action | The creature cannot be used in  the next scenario. |
+| 3–4    | Wounded       | Roll on the injuries table.                        |
+| 5–6    | Full recovery | The creature is good as new.                       |
+
+##### Table: Injuries
+
+| **D6** | **Injury**  | **Effect**                                      |
+| ------ | ----------- | ----------------------------------------------- |
+| **1**  | Injured Leg | -1 Speed.                                       |
+| **2**  | Injured Eye | -1 Fight.                                       |
+| **3**  | Befuddled   | -1 Power.                                       |
+| **4**  | Cursed      | -1 Fortitude, Reflex and Will.                  |
+| **5**  | Fragile     | -1 Armor                                        |
+| **6**  | Weakened    | Start the encounter with the slowed  condition. |
+
+A creature that already has a wound that would become Wounded again instead has that wound permanently. Otherwise, a wounded creature that completes a scenario with that wound loses the wound. 
+
+## Advancement
+
+There are two methods of advancement: fixed and random. 
+
+In fixed advancement, creatures advance to the next level upon completing three scenarios (or as otherwise specified in the scenarios). Their hit points and damage increase (as described below) and their saves (Fortitude, Reflex, Will), Fight, Armor and Power increase at fixed levels. They also gain a new feat at every even level. 
+
+| **Level** | **Saves** | **Fight** | **Armor** | **Power** | **Feats** |
+| --------- | --------- | --------- | --------- | --------- | --------- |
+| **2**     |           | +1        | +1        |           | +1        |
+| **3**     |           |           |           | +1        |           |
+| **4**     | +1        | +1        | +1        |           | +1        |
+| **5**     |           |           |           |           |           |
+| **6**     | +1        | +1        | +1        | +1        | +1        |
+| **7**     |           |           |           |           |           |
+| **8**     |           | +1        | +1        |           | +1        |
+| **9**     | +1        |           |           | +1        |           |
+| **10**    |           | +1        | +1        |           | +1        |
+| **11**    | +1        |           |           |           |           |
+| **12**    |           | +1        | +1        | +1        | +1        |
+| **13**    |           |           |           |           |           |
+| **14**    | +1        | +1        | +1        |           | +1        |
+
+### Feats
+
+#### Level 1 feats
+
+**Assurance:** Choose a skill. You always get a result of 8 + your skill modifier, if you rolled lower.
+
+🄴 🄴 **Battle Medicine** ● Make a Medicine check (Power 15). On a success, heal 10 HP. On a critical success, heal 20 HP. 
+ *From level 6,* you can choose to make a Medicine check (Power 20). On a success, heal 20 HP. On a critical success, heal 30 HP. 
+ *From level 11,* you can choose to make a Medicine check (Power 30). On a success, heal 40 HP. On a critical success, heal 50 HP.
+
+**Canny Acumen (Fortitude):** Increase Fortitude by +1.
+
+**Canny Acumen (Reflex):** Increase Reflex by +1.
+
+**Canny Acumen (Will):** Increase Will by +1.
+
+**Combat Climber:** You are not off-guard while climbing.
+ *Requires* Trained in Athletics
+
+**Draconic Momentum** Recovers one use of Breath Weapon whenever you score a critical hit with a strike.
+ *Requires* Breath Weapon 
+
+**Feather Step:** You can Step into difficult terrain.
+
+**Fleet:** Speed increases by +1. 
+
+**Polearm Proficiency:** You have the range Melee 2 for one of your melee weapons. 
+
+**Quick Jump** ● Make Athletics check. Result/4 = squares jumped over.
+
+🄴 **Shield Block** **↻** When taking slashing, piercing or bludgeoning damage; *Effect* Reduce damage by 10. (15 at level 8, 20 at level 13). 
+ *Requires* The user must wield a shield.
+
+**Skill Training:** You become trained in a skill you choose.
+
+**Titan Wrestler:** You can attempt to Disarm, Grapple, Shove, or Trip creatures up to two sizes larger than you.
+
+**Toughness:** Increase maximum HP by 5. (10 at level 8, 15 at level 13). Add +1 to recovery rolls.
+
+#### Level 3 feats
+
+**Untrained Improvisation (Level 3):** You only suffer a -4 penalty when making skill checks with skills you are untrained in. 
+
+#### Level 7 feats
+
+**Battle Cry (Level 7)** ○ On your first turn in an encounter, you can take the Demoralize action as a free action. 
+ *Requires* Trained in Intimidation
+
+**Kip Up (Level 7)** ○ You stand up. This movement doesn’t trigger reactions.
+ *Requires* Trained in Acrobatics
+
+🄳 **Prescient Consumable (Level 7):** Choose one consumable item in your possession. Replace it with another of same or lower level. 
+
+### Learning spells
+
+A caster can Interact with a defeated enemy caster of the same tradition, that they are adjacent to. If so, make a note of the spells that the defeated caster can cast. When the original caster learns a new spell, they can choose from those spells as well. 
+
+## Class table
+
+Use this table to determine how a class is expected to progress in terms of damage and HP, and what the expected starting stats are for first level creatures of that class. 
+
+When converting creatures over from PF2e, it is perfectly okay for their numbers to differ from those given here. They have been built using different, valid rules. 
+
+##### Table: Expected class statistics at first level
+
+| **Class**               | **Attack** | **Melee Damage** | **Ranged Damage** | **Armor** | **Power** | **Fort** | **Reflex** | **Will** | **HP**                                     |
+| ----------------------- | ---------- | ---------------- | ----------------- | --------- | --------- | -------- | ---------- | -------- | ------------------------------------------ |
+| **Alchemist**           | +6         | 5  (moderate)    | 5  (moderate)     | 14        | 13        | +6       | +6         | +6       | 20  +12 per level (2–7) +15 per level (8+) |
+| **Barbarian**           | +6         | 8 (extreme)      | 6 (high)          | 14        | 13        | +9       | +6         | +6       | 25 +20 per level (2–7) +25 per level (8+)  |
+| **Bard**                | +4         | 5 (moderate)     | 4 (low)           | 14        | 19        | +3       | +6         | +9       | 20  +12 per level (2–7) +15 per level (8+) |
+| **Champion**            | +6         | 6 (high)         | 5 (moderate)      | 18        | 13        | +6       | +3         | +6       | 20 +15 (levels 2–7) + 20 (levels 8+)       |
+| **Cleric (Cloistered)** | +4         | 5  (moderate)    | 4 (low)           | 12        | 18        | +3       | +6         | +9       | 20  +12 (levels 2–7) + 15 (levels 8+)      |
+| **Cleric  (Warpriest)** | +6         | 5 (moderate)     | 4 (low)           | 15        | 16        | +6       | +3         | +9       | 20 +15 (levels 2–7) + 20 (levels 8+)       |
+| **Druid**               | +4         | 5  (moderate)    | 4 (low)           | 14        | 18        | +6       | +6         | +9       | 20  +12 (levels 2–7) + 15 (levels 8+)      |
+| **Fighter**             | +8         | 6 (high)         | 5 (moderate)      | 15        | 13        | +6       | +6         | +3       | 20 +15 (levels 2–7) + 20 (levels 8+)       |
+| **Monk**                | +6         | 6  (high)        | 5 (moderate)      | 17        | 13        | +6       | +6         | +6       | 20  +15 (levels 2–7) + 20 (levels 8+)      |
+| **Ranger**              | +8         | 6 (high)         | 6 (high)          | 15        | 13        | +6       | +6         | +6       | 20 +15 (levels 2–7) + 20 (levels 8+)       |
+| **Rogue**               | +6         | 5  (moderate)    | 5  (moderate)     | 15        | 13        | +3       | +9         | +6       | 20 +12  (levels 2–7) + 15 (levels 8+)      |
+| **Sorcerer**            | +4         | 4 (low)          | 4 (low)           | 12        | 18        | +3       | +6         | +6       | 15 +10 per level (2–7) +15 per level (8+)  |
+| **Wizard**              | +4         | 4  (low)         | 4  (low)          | 12        | 18        | +3       | +6         | +6       | 15  +10 per level (2–7) +15 per level (8+) |
+
 # Appendix: Converting from PF2e
 
 Converting creatures from PF2e is more art than science, but here are some tips. 
 
-*Path 2 Victory* uses the Proficiency without Level variant rule, so make sure to make the necessary adjustments first (basically, subtracting level from any number that includes Proficiency).
+*Path 2 Victory* uses the Proficiency without Level variant rule, so make sure to make the necessary adjustments first (subtract level from any number that includes Proficiency).
 
 **Level, Alignment and Size:** Unchanged from PF2e.
 
 **Points Cost:** Calculate based on the below table: 
 
-##### Table 2: Points cost by level
+##### Table: Points cost by level
 
 | **Level** | **Cost** | **Upgrade cost** | **Level** | **Cost** | **Upgrade cost** |
 | --------- | -------- | ---------------- | --------- | -------- | ---------------- |
@@ -1129,96 +1146,114 @@ Cost is calculated as the XP that a level 5 party would receive from defeating t
 
 **Armor:** Unchanged from PF2e (where it is called AC).
 
-**Power:** Choose the highest DC listed. If none, set Power to Fight +9. Alternatively, if the creature has one strike at a significantly lower attack bonus than the others, could use that attack bonus +10 as the creature’s power, and change the strike into a save-negates power. 
+**Power:** Choose the highest DC listed. If none, set Power to Fight +9. Alternatively, if the creature has one strike at a significantly lower attack bonus than the others, could use that attack bonus +10 as the creature’s Power, and change the strike into a save-negates power. 
 
 **Saving Throws:** Unchanged from PF2e. 
 
-**HP:** Round hit points to the nearest 5 if the creature has more than 10 hit points. 
+**HP:** Round to the nearest 5 if the creature has more than 10 HP.
 
 **Speed:** Convert feet into squares by dividing by 5. Choose the highest speed among all movement modes, unless that represents a particularly niche movement. 
 
-In *Path 2 Victory,* creatures have at most one movement mode. If a creature has multiple movement modes, choose the most useful (Burrowing is usually more useful than Aquatic or Wall Climb, and Flight is almost always the most useful). If one of a creature’s movement modes is much less than others (for example, it has a walk speed of 60 feet but a fly speed of 10 feet), it is better to ignore the slower movement mode. 
+In *Path 2 Victory,* creatures have at most one movement mode. If a creature has multiple movement modes, choose the most useful (Burrowing is usually more useful than Aquatic or Wall Climb, and Flight is almost always the most useful). If one of a creature’s movement modes is much less than others (for example, walk 60 feet and fly 10 feet), ignore the slower movement mode. 
 
 Aquatic creatures that cannot move on land at all (or barely, for example with a walk speed of 10 feet or less) should have the Aquatic Only feature. They are of little use in most games of *Path 2 Victory.* 
 
 ## Features
 
-* Where a lower-level creature has multiple weapon options, can gate additional weapons options as upgrades. 
-
 * Remove critical success and failure rules except where particularly interesting or important. 
-
 * Simplify tracking or remove it altogether. For example, make a recharge power usable twice per encounter instead. If a fear effect can only affect a given monster once, abstract this by making the entire fear effect usable once per encounter. 
-
-* When an action costs three action points, consider if an element can be removed from it to make an action that is balanced at two action points. Alternatively, it can be okay to just make an action that costs three action points cost two action points. 
-
-* Because *Path 2 Victory* has two action points per turn instead of three, ignore “maintenance” actions like Raise Shield or the Fly action to remain in the air. *Path 2 Victory* is just not fine-grained enough that it is necessary to have these kinds of actions. 
-  * When an action requires a maintenance action, like a ranged weapon that needs the Reload action to use again, an alternative option is to make the original action usable only once per turn. 
-
+* When an action costs 3 AP, consider if an element can be removed from it to make an action that is balanced at 2 AP. Alternatively, it can be okay to just make an action that costs 3 AP cost 2 AP. 
+* Because *Path 2 Victory* has 2 AP per turn instead of three, ignore “maintenance” actions like Raise Shield or the Fly action to remain in the air. *Path 2 Victory* is not fine-grained enough for these kinds of actions.  
+* When an action requires a maintenance action, like a ranged weapon with Reload, an alternative option is to make the original action usable only once per turn. 
 
 ### Damage
 
 * Consolidate different types of damage, so instead of doing 2 fire damage and 3 poison damage, a strike does 5 fire and poison damage. 
-
-* Find the average damage and use that. When this amounts to damage of 10 or more, round to the nearest 5. 
-
+* Find the average damage and use that, rounding up. When this amounts to damage of 10 or more, round to the nearest 5. 
 * Precision and bleed no longer exist as damage types – the associated damage still happens, but there are no special rules relating to precision and bleed damage.
-
 * Instead of hardness, use resist all. 
-
-* Replace every 5 points of resistance with 2d6 resistance (so resist 10 becomes resist 4d6, etc). 
+* Replace every 5 points of resistance with 2d6 resistance (so resist 10 becomes resist 4d6). 
 
 ### Strikes
 
-Remove/consolidate attacks that are unlikely to see much use.
+Where a lower-level creature has multiple weapon options, can reserve additional weapons as upgrades. 
 
-In *Path 2 Victory,* the multiple attack penalty does not increase during an action. That makes some actions that allow for multiple attacks too powerful. You can remove these actions or modify them. 
+Remove or consolidate attacks that are unlikely to see much use. 
+
+In *Path 2 Victory,* the multiple attack penalty does not increase during an action. That makes some actions that allow for multiple attacks too powerful. Remove these actions or modify them. 
 
 ### Spellcasting
 
-Creatures are casters of rank equal to the highest rank of spell that they can cast. This is different to, and simpler than, the original game where casters would cast spells of different ranks. 
+Creatures are casters of rank equal to the highest rank of spell that they can cast. This is different to the original game where casters would cast spells of different ranks. 
 
 To figure out how many spells/spell slots the creature has available, follow this rough guide:
 
 * Take the number of spells memorized/spell slots available for the highest rank of spells. 
-
 * Add half the number of spells memorized/spell slots available for the next two highest ranks of spells.
-
 * Subtract 2.
-
 * Ignore all other spells memorized/spell slots available. 
 
 For example, Grugach can cast three rank-4 spells, five rank-3 spells and seven rank-2 spells. He becomes a Caster Rank 4, with ((3 + 5/2 + 7/2) -2) spell slots, i.e. seven. 
 
-Then in terms of the specific spells known/memorized, choose spells that have a purpose in combat and are iconic for the creature. 
+For the specific spells known/memorized, choose spells that have a purpose in combat and suit the creature. 
 
 ### Areas of effect
 
-For powers and spells, reduce areas of effect, from 16 to 8, from 12 to 8 and from 6 to 4. Powers with areas of effect of 1, 2 or 3 generally do not need to be reduced in area. 
+Reduce areas of effect, from 16 to 8, from 12 to 8 and from 6 to 4. Powers with areas of effect of 1, 2 or 3 generally do not need to be reduced in area. 
 
 ### Conditions
 
-Conditions almost always just last until the end of the creature’s next turn. When it comes to the lowered abilities conditions, this is not as much of a concern because the replacements (sickened, rattled or off-guard) can be more useful and represent a steeper penalty. 
+Conditions almost always just last until the end of the creature’s next turn. 
 
 * **Blinded:** Use rattled and encumbered instead. 
-
 * **Broken:** Instead of breaking a creature’s weapons, they become rattled.
-
 * **Dazzled:** Use rattled instead. 
-
 * **Deafened:** Ignore, or choose a thematically appropriate condition. 
-
 * **Fatigued:** Use off-guard or sickened instead. 
-
 * **Frightened and fleeing:** Fear effects apply options like pushing the target, ending their action even if they have movement remaining or the rattled or dazed conditions.
-
 * **Paralyzed:** Use stunned instead. 
-
 * **Restrained:** Use immobilized instead. 
-
+* **Stunned 1:** Use slowed instead. 
 * **Lowered abilities conditions (clumsy, drained, enfeebled and stupefied):** Pick one of sickened, rattled or off-guard as seems appropriate. 
 
-Other conditions are not described in *Path 2 Victory* but can be used sparingly: fascinated, petrified (remove from play and replace with a statue of the same size), etc. 
+*Path 2 Victory* conditions are sometimes stronger than their PF2e equivalents to account for their shorter durations. But even when they are not stronger, keep in mind that *Path 2 Victory* battles often involve a wider range of levels (and therefore power levels) than PF2e encounters – so a lower-level character has a chance to immobilize, slow or stun a much higher-level character, albeit only for one round. 
 
-You can also proxy additional conditions or effects in a two-step process: saying that a certain event gives a creature a condition, and then giving it an additional rider when affected by that condition. 
+#### Other conditions
 
-For example, in PF2e the craig linnorm loses regeneration when it takes cold damage. In *Path 2 Victory,* the Craig Linnorm becomes sickened when it takes cold damage, and loses regeneration while sickened. The flavorful weakness is preserved, but no further tracking is needed beyond the existing *Path 2 Victory* condition system. 
+Other conditions are not described in *Path 2 Victory* but can be used sparingly. You will see some examples in the same creature cards provided: 
+
+* Cannot be healed 
+* Cannot make attacks
+* Cannot make ranged attacks 
+* Charmed (cannot make attacks that target the caster or the space the caster is in)
+* Petrified (remove from play and replace with a statue of the same size)
+
+You can also proxy additional conditions or effects in a two-step process: saying that a certain event gives a creature an existing condition, and then giving it an additional rider when affected by that condition. 
+
+For example, in PF2e the Craig Linnorm loses regeneration when it takes cold damage. In *Path 2 Victory,* the Craig Linnorm becomes sickened when it takes cold damage, and loses regeneration while sickened. The flavorful weakness is preserved, but no further tracking is needed beyond the existing *Path 2 Victory* condition system. 
+
+## Example: The slurk<img src="img/slurk.png" style="float:right; width: 2.5in; margin-left:15px;" />
+
+The slurk appears in *Monster Core.* Take alignment from its Legacy version: True Neutral. 
+
+Size and traits can be copied directly. I order traits from more specific to less specific, rather than alphabetically. 
+
+Level is the same, and gives us the creature’s points value: 18. You can have five slurk in a 100-point party. 
+
+Calculate the creature’s attack bonuses, AC, saves and DCs (if any) as if the Proficiency Without Level rules were applied. The Archives of Nethys site can do this for you. 
+
+* **Fight:** The slurk has a +9 attack bonus with its tusks and +7 with its slime squirt. You can take the higher (if it is the monster’s main attack) or average them. In this case, we’ll give the slurk Fight +8.
+* **Armor:** The slurk has an AC of 15, so we give it an Armor of 15. 
+* **Power:** The slurk’s Belly Grease action has a DC of 17, so we’ll make that the slurk’s Power. 
+* **Saves:** Copy across the slurk’s Fortitude +8, Reflex +4 and Will +2. We won’t bother with its special bonus to Fortitude saves against grapples; that is too fiddly for *Path 2 Victory.*
+* **Speed:** The slurk’s Speed of 30 feet becomes 6 squares, and since it has a climb speed we give it the Wall Climb special movement. 
+* **HP:** The slurk’s HP of 35 is a multiple of 5 already, so we don’t need to round it up or down. 
+* **Skills:** We give the slurk Acrobatics, Athletics, Perception and Stealth, since its bonuses with those skills are similar to the corresponding saves. 
+
+**Tusks:** A tusks strike becomes the slurk’s first action. It costs 1 AP and is a Melee strike. 1d8+4 piercing damage averages 8.5 damage, which rounds up to 9 damage. It’s annoying to have damage that doesn’t go in increments of 5, so we might just increase it to 10 for simplicity’s sake. After all, we did reduce the slurk’s Fight relative to its tusks attack roll. 
+
+**Slime Spurt:** A slime spurt costs 1 AP and is a Ranged 6/12 strike. The slash indicates the short and long range increments for the attack. 
+
+*Path 2 Victory’s* encumbered condition (-2 to Speed) replaces Entangling Slime. Note that encumbered will only remain until the end of the creature’s turn, whereas Entangling Slime can last for the entire encounter. 
+
+**Belly Grease:** We have two options with this feature: keep it as an action (reducing the cost to 2 AP, since creatures usually only get 2 AP on their turns in *Path 2 Victory*) and require players to track the changing terrain across the battlefield, or turn it into an aura that is always on, but that moves with the slurk. The latter seems easier, so we’ll go with that. It becomes an emanation 1 aura.

@@ -1,12 +1,18 @@
 *Path 2 Victory* is a hack of PF2e that turns the expansive roleplaying game into an accessible miniatures skirmish game. 
 
-[Base Game](Base Game.md) v1.4 ([PDF download](Path 2 Victory 1.4.pdf) v 1.4)
+[Base Game](Base Game.md) v1.6 ([PDF download](Path 2 Victory 1.6.pdf) v 1.6)
 
-[Appendices](Appendices.md)
+Stuff: 
 
-[Cheat Sheet PDF](Cheat Sheet.pdf)
+* [ORC Monster Cards](cards-orc.html)
 
-[Condition and Status Trackers PDF](Condition and Status Trackers.pdf)
+* [Spells PDF](ORC Spells.pdf)
+
+* [Items PDF](Items.pdf)
+
+* [Cheat Sheet PDF](Cheat Sheet.pdf)
+
+* [Condition and Status Trackers PDF](Condition and Status Trackers.pdf)
 
 Wargame printouts:
 
@@ -17,17 +23,22 @@ Matched play printouts:
 
 * [Example Terrain Tiles](Example Terrain Tiles.pdf)
 
+[ORC License](Orc License.md)
+
 ## Open Game Content
 
-[Monster Cards](cards.html)
+Stuff:
 
-[Spells](Legacy Spells.md)
+* [OGL Monster Cards](cards.html)
+
+* [Spells PDF](Legacy Spells.pdf)
 
 Basement Crawl printouts:
 
-* [Adventurer Cards](Basement Crawl - Adventurer Cards.pdf)
-* [Monster Cards](Basement Crawl - Monster Cards.pdf)
-* [Spell and Item Cards](Basement Crawl - Spell and Item Cards.pdf)
+* [Scenario PDF](Basement Crawl - Scenario.pdf)
+* [Adventurer Cards PDF](Basement Crawl - Adventurer Cards.pdf)
+* [Monster Cards PDF](Basement Crawl - Monster Cards.pdf)
+* [Spell and Item Cards PDF](Basement Crawl - Spell and Item Cards.pdf)
 
 Wargame printouts: 
 
