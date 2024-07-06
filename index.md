@@ -23,7 +23,7 @@ Matched play printouts:
 
 * [Example Terrain Tiles](Example Terrain Tiles.pdf)
 
-[ORC License](Orc License.md)
+[ORC License](ORC License.md)
 
 ## Open Game Content
 
@@ -55,6 +55,8 @@ Test out the *Path 2 Victory* rules in a variety of different conditions.
 ## Website
 
 As you can see, this website is barebones. Any additional functionality would be greatly appreciated. 
+
+Site prepared by [Chris Sakkas](mailto:sanglorian@gmail.com)
 
 ## Game design
 
