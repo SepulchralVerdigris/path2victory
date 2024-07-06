@@ -30,7 +30,6 @@ Matched play printouts:
 Stuff:
 
 * [OGL Monster Cards](cards.html)
-
 * [Spells PDF](Legacy Spells.pdf)
 
 Basement Crawl printouts:
