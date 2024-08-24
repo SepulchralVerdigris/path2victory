@@ -47,6 +47,9 @@
 .align-symbol {display: inline;
 font-size: 11pt;}
 
+.dice {display: inline;
+font-size: 12pt;}
+
 .stats-and-features {
 	display: flex;
 	flex-direction: row;
@@ -89,11 +92,18 @@ font-style: italic;}
 	flex-direction: column;
 	display:flex;
 }
-.name {
+.card .name {
 	display:inline;
     font-weight: bold;
     color: darkgreen;
 	font-size: 12pt;
+}
+
+.minicard .name {
+	display:inline;
+    font-weight: bold;
+    color: darkblue;
+	font-size: 10pt;
 }
 
 .feature {padding-bottom: 5px;}
@@ -113,11 +123,31 @@ font-style: italic;}
 	min-height: 3.5in;
 	border: 2px solid black;
 	border-radius: 5px;
+	page-break-inside: avoid;
+	break-inside: avoid;
+	position: relative;
+    margin: 10px;
+}
+
+.minicard {
+	justify-content: space-between;
+	width: 63mm;
+	min-height: 41mm;
+	border: 2px solid black;
+	border-radius: 5px;
+	page-break-inside: avoid;
+	break-inside: avoid;
 	position: relative;
     margin: 10px;
 }
 
 .feature-uses {display: inline;}
+
+.minicard .feature-uses {
+	display:inline;
+    color: darkblue;
+	font-size: 10pt;
+}
 
 .card-interior {
 	padding-top: 5px; 
