@@ -8,7 +8,7 @@ Stuff:
 
 * [Spells PDF](ORC Spells.pdf)
 
-* [Items PDF](Items.pdf)
+* [ORC Items](items-orc.html)
 
 * [Cheat Sheet PDF](Cheat Sheet.pdf)
 
