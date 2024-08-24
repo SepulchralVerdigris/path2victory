@@ -76,6 +76,28 @@ font-style: italic;}
     overflow: hidden;
     overflow: hidden;
     text-overflow: ellipsis; /* Display an ellipsis (...) when text overflows */
+	
+	background:none;
+	border:none;
+	bottom:auto;
+	clear:none;
+	cursor:default;
+	float:none;
+	font-family:Times New Roman, serif;
+	font-size:medium;
+	font-style:normal;
+	font-weight:normal;
+	height:auto;
+	left:auto;
+	letter-spacing:normal;
+	line-height:normal;
+	max-height:none;
+	max-width:none;
+	min-height:0;
+	min-width:0;
+	overflow:visible;
+	position:static;
+	right:auto;
 }
 
 .other-features {
