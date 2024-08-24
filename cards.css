@@ -149,6 +149,7 @@ font-style: italic;}
 	break-inside: avoid;
 	position: relative;
     margin: 10px;
+		background:white;
 }
 
 .minicard {
