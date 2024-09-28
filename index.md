@@ -69,3 +69,13 @@ The foundation of the game is there, but there are some unresolved issues/questi
 * Should all HP and damage be a multiple of 5? If so, how to account for low-level monsters where the difference of 1 HP is significant? 
 * Are "save for half" effects too powerful in a game where level -1 creatures have to be balanced against level 14 creatures?
 * Are area of effect attacks too powerful?
+
+# Other games
+
+* [Grudge](https://sepulchralverdigris.itch.io/grudge)
+
+![](GRUDGE\GRUDGE1.webp)
+
+![](GRUDGE\GRUDGE2.webp)
+
+![](GRUDGE\GRUDGE3.jpg)
