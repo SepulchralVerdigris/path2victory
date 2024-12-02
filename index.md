@@ -2,7 +2,28 @@
 
 [Base Game](Base Game.md) v1.6 ([PDF download](Path 2 Victory 1.6.pdf) v 1.6)
 
-Stuff: 
+## P2V: Roleplay
+
+*P2V: Roleplay* simplifies the PF2e rules so monster and hero profiles fit on a single playing card, but the rules are rich and detailed enough to provide tactical and imaginative gameplay. You can play solo or with friends, and with a Game Master or GM-less. 
+
+You might like *P2V: Roleplay* if: 
+
+* You’re intrigued by Pathfinder 2E but find the rules daunting. 
+
+* You want to lean into the tactical combat of Pathfinder 2E.
+
+* You’d like to play adventures solo, with a whole adventuring party under your control. 
+
+* You want to play without a Game Master. 
+* You want to make original characters to play in *Path 2 Victory* skirmishes. 
+
+* You enjoy open source: *Path 2 Victory* is under the same ORC License as the original game. 
+
+*P2V: Roleplay* ([PDF download](P2V Roleplay 0.6.pdf) v 1.6)
+
+You need the *Path 2 Victory* base game to play *P2V: Roleplay*
+
+## Stuff: 
 
 * [ORC Monster Cards](cards-orc.html)
 
