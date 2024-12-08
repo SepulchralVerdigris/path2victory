@@ -1,6 +1,8 @@
 *Path 2 Victory* is a hack of PF2e that turns the expansive roleplaying game into an accessible miniatures skirmish game. 
 
-[Base Game](Base Game.md) v1.6 ([PDF download](Path 2 Victory 1.6.pdf) v 1.6)
+**Read [*Path 2 Victory* Online](Base Game.md)** or 
+
+**Download [*Path 2 Victory*](Path 2 Victory 1.6.pdf)** v1.6
 
 ## P2V: Roleplay
 
@@ -19,7 +21,7 @@ You might like *P2V: Roleplay* if:
 
 * You enjoy open source: *Path 2 Victory* is under the same ORC License as the original game. 
 
-*P2V: Roleplay* ([PDF download](P2V Roleplay 0.6.pdf) v 1.6)
+**Download [*P2V: Roleplay*](P2V Roleplay 0.6.pdf)** v 0.6
 
 You need the *Path 2 Victory* base game to play *P2V: Roleplay*
 
