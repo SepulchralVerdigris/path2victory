@@ -23,6 +23,10 @@ You might like *P2V: Roleplay* if:
 
 You need the *Path 2 Victory* base game to play *P2V: Roleplay*
 
+<img src="Claar Doveblood.png" />
+
+<img src="Forest Troll.png" />
+
 ## Stuff: 
 
 * [ORC Monster Cards](cards-orc.html)
