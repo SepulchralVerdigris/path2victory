@@ -14,7 +14,7 @@ Between Fleet, Nimble Dodge, Reactive Strike and Fighter Resiliency, I reckon we
 
 <img src="Character cards\Duellist2.PNG"  style="width: 300px" />
 
-<img src="Character cards\MageHunter.jpg"  style="width: 300px" />
+<img src="Character cards\Magehunter.jpg"  style="width: 300px" />
 
 The Mage Hunter proved a bit trickier. Despite the name, he seems to be a magic-user himself - but I haven't adapted the Magus (and probably won't until there is an ORC licensed version). 
 
@@ -22,7 +22,7 @@ One of the advantages of *Path 2 Victory* characters being so sparse, though, is
 
 I give him Light Armor Proficiency to help model a gish, and pick out spells recommended in a "how to make a PF2e gish" guide I found online. 
 
-<img src="Character cards\MageHunter1.PNG"  style="width: 300px" />
+<img src="Character cards\Magehunter1.PNG"  style="width: 300px" />
 
 <img src="Character cards\Necromancer.jpg"  style="width: 300px" />
 
