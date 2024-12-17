@@ -27,6 +27,8 @@ You need the *Path 2 Victory* base game to play *P2V: Roleplay*
 
 <img src="Forest Troll.png" style="width: 300px" />
 
+[Characters](Characters.html)
+
 ## Stuff: 
 
 * [ORC Monster Cards](cards-orc.html)
