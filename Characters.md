@@ -6,7 +6,7 @@ I started with the Duellist:
 
 <img src="Character cards\Duellist.jpg"  style="width: 300px" />
 
-If I had converted the Swashbuckler to *Path 2 Victory* yet, that would be a natural place to start, but it looks like rogue or fighter would work too. 
+If we had converted the Swashbuckler to *Path 2 Victory* yet, that would be a natural place to start, but it looks like rogue or fighter would work too. 
 
 I decide on rogue, and starting at level 6 allows for a couple of feats in the fighter archetype. 
 
