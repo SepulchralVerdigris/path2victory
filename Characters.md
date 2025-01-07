@@ -33,3 +33,29 @@ He does have a wicked-looking dagger (is that held by a third, skeletal arm? Or 
 Level 2 allowed me to work in Versatile Font, which gives him power over life and death. 
 
 <img src="Character cards\Necromancer1.PNG"  style="width: 300px" />
+
+
+
+The next three characters use classes that haven't been published just yet - the Ranger, Bard and Barbarian. 
+
+<img src="Character cards\Archer.jpg"  style="width: 300px" />
+
+The archer is straightforward - a level 1 ranger with the Martial Disciple archetype and the Initiate Warden feat to pick up *gravity weapon*. With the longbow taking a free action, and characters limited to one free action per round, Flurry does not seem particularly useful. However, there's a rule change coming to *Path 2 Victory* that allows a flurrying ranger with a longbow to shoot twice (getting the reduced MAP on the second strike in a round). 
+
+<img src="Character cards\Archer1.PNG"  style="width: 300px" />
+
+<img src="Character cards\Bard.jpg"  style="width: 300px" />
+
+Since the image is literally titled "Bard", I figured as straightforward a bard as possible was the way to go. The bard is *Path 2 Victory*'s first occult caster - but this character hasn't picked up the creepy, spooky or psychic spells that are also present on the occult list. 
+
+*Lingering composition* lets the bard keep *courageous anthem* going an extra round, freeing more time for illusions and rapier strikes. 
+
+<img src="Character cards\Bard1.png"  style="width: 300px" />
+
+
+
+<img src="Character cards\SpikedCloak.jpg"  style="width: 300px" />
+
+Spiked Cloak is a barbarian. Not much to write home about here. I'd like something that reflects his magnificent spiked cloak - some way of counterattacking or damaging someone who makes a melee attack against him, for example. Let me know if you have any ideas and I can put together a higher-level version. 
+
+<img src="Character cards\SpikedCloak1.png"  style="width: 300px" />
