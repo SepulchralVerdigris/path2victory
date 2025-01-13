@@ -50,7 +50,7 @@ Since the image is literally titled "Bard", I figured as straightforward a bard 
 
 *Lingering composition* lets the bard keep *courageous anthem* going an extra round, freeing more time for illusions and rapier strikes. 
 
-<img src="Character cards\Bard1.png"  style="width: 300px" />
+<img src="Character cards\Bard1.PNG"  style="width: 300px" />
 
 
 
@@ -58,4 +58,4 @@ Since the image is literally titled "Bard", I figured as straightforward a bard 
 
 Spiked Cloak is a barbarian. Not much to write home about here. I'd like something that reflects his magnificent spiked cloak - some way of counterattacking or damaging someone who makes a melee attack against him, for example. Let me know if you have any ideas and I can put together a higher-level version. 
 
-<img src="Character cards\SpikedCloak1.png"  style="width: 300px" />
+<img src="Character cards\SpikedCloak1.PNG"  style="width: 300px" />
