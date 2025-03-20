@@ -1,12 +1,25 @@
-*Path 2 Victory* is a hack of PF2e that turns the expansive roleplaying game into an accessible miniatures skirmish game. 
+*Path 2 Victory* is a hack of PF2e that turns the expansive roleplaying game into an accessible roleplaying and miniatures skirmish game. 
 
-**Read [*Path 2 Victory* Online](Base Game.md)** or **download [*Path 2 Victory*](Path 2 Victory 1.6.pdf)** v1.6
+**Download [*Path 2 Victory* Release 2](Path 2 Victory R2.pdf)**
 
-## P2V: Roleplay
+<img src="img\Cover.png" style="width: 300px" />
 
-*P2V: Roleplay* simplifies the PF2e rules so monster and hero profiles fit on a single playing card, but the rules are rich and detailed enough to provide tactical and imaginative gameplay. You can play solo or with friends, and with a Game Master or GM-less. 
+# What's New?
 
-You might like *P2V: Roleplay* if: 
+*Path 2 Victory* Release 2:
+
+* Combines the roleplaying and miniatures skirmish rules into a single package.
+* Features eight character classes - including spellcasters of all four traditions. 
+* Uses the "four essences" as spell lists: Life, Matter, Mind and Spirit. 
+* Rules for familiars and animal companions. 
+* Is in a fun A5-sized format.
+* Is beautifully illustrated using free and open art from [Emiel Boven]([Emiel](https://www.patreon.com/c/emielboven/)) and [Bert Bogaerts]([Bert](https://www.patreon.com/bertdrawsstuff)), including an original cover by Emiel Bovan.
+
+# What is *Path 2 Victory*?
+
+*Path 2 Victory* is a tabletop roleplaying and skirmish game. It simplifies the PF2e rules so monster and hero profiles fit on a single playing card, but keeps them  rich and detailed enough to provide tactical and imaginative gameplay.  You can play solo or with friends, and with a Game Master or GM-less. 
+
+## You might like *Path 2 Victory* if: 
 
 * You’re intrigued by Pathfinder 2E but find the rules daunting. 
 
@@ -19,28 +32,15 @@ You might like *P2V: Roleplay* if:
 
 * You enjoy open source: *Path 2 Victory* is under the same ORC License as the original game. 
 
-**Download [*P2V: Roleplay*](P2V Roleplay 0.6.pdf)** v0.6
+# Additional content
 
-You need the *Path 2 Victory* base game to play *P2V: Roleplay*
+## ORC-licensed
 
-<img src="Claar Doveblood.png" style="width: 300px" />
-
-<img src="Forest Troll.png" style="width: 300px" />
-
-[Characters](Characters.html)
-
-## Stuff: 
+* [Characters](Characters.html)
 
 * [ORC Monster Cards](cards-orc.html)
-
-* [Spells PDF](ORC Spells.pdf)
-
-* [ORC Items](items-orc.html)
-
 * [Cheat Sheet PDF](Cheat Sheet.pdf)
-
 * [Condition and Status Trackers PDF](Condition and Status Trackers.pdf)
-
 * [Example Campaign](PF Campaign.html)
 
 Wargame printouts:
@@ -54,9 +54,7 @@ Matched play printouts:
 
 [ORC License](ORC License.md)
 
-## Open Game Content
-
-Stuff:
+## OGL-licensed
 
 * [OGL Monster Cards](cards.html)
 * [Spells PDF](Legacy Spells.pdf)
@@ -84,18 +82,7 @@ Test out the *Path 2 Victory* rules in a variety of different conditions.
 
 As you can see, this website is barebones. Any additional functionality would be greatly appreciated. 
 
-Site prepared by [Chris Sakkas](mailto:sanglorian@gmail.com)
-
-## Game design
-
-The foundation of the game is there, but there are some unresolved issues/questions:
-
-* Are the points values set at the right level? Should higher-level creatures cost more than they currently do?
-* Is a visual cue needed on creature cards to indicate that Fight rolls are only made for strikes, not other attacks? 
-* Is there a better way to handle fear and morale: refusing to advance, retreating, getting rattled … 
-* Should all HP and damage be a multiple of 5? If so, how to account for low-level monsters where the difference of 1 HP is significant? 
-* Are "save for half" effects too powerful in a game where level -1 creatures have to be balanced against level 14 creatures?
-* Are area of effect attacks too powerful?
+Site prepared by [Chris Sakkas](mailto:sanglorian@gmail.com).
 
 # Other games
 
