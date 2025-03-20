@@ -1,6 +1,6 @@
 *Path 2 Victory* is a hack of PF2e that turns the expansive roleplaying game into an accessible roleplaying and miniatures skirmish game. 
 
-**Download [*Path 2 Victory* Release 2](Path 2 Victory R2.pdf)**
+**Download *Path 2 Victory* Release 2** [direct PDF](Path 2 Victory R2.pdf) or [on Itch.io](https://sepulchralverdigris.itch.io/path-2-victory)
 
 <img src="img\Cover.png" style="width: 300px" />
 
